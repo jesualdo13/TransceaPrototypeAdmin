@@ -503,14 +503,6 @@
 
 			widgets.rootWidgetMap[["s-Image_1", "3e4c7d18-bdfc-46d2-9c3d-563af05fd8cd"]] = ["Image", "s-Image_1"]; 
 
-	widgets.descriptionMap[["s-Path_1", "6b60547a-1f49-4634-be9e-78a23595a606"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Path_1", "6b60547a-1f49-4634-be9e-78a23595a606"]] = ["Close", "s-Path_1"]; 
-
-	widgets.descriptionMap[["s-Image_1", "6b60547a-1f49-4634-be9e-78a23595a606"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Image_1", "6b60547a-1f49-4634-be9e-78a23595a606"]] = ["Image", "s-Image_1"]; 
-
 	widgets.descriptionMap[["s-Path_1", "b78b6f0d-8a12-478c-b6f7-591095bd9a9e"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Path_1", "b78b6f0d-8a12-478c-b6f7-591095bd9a9e"]] = ["Close", "s-Path_1"]; 
@@ -518,6 +510,14 @@
 	widgets.descriptionMap[["s-Image_1", "b78b6f0d-8a12-478c-b6f7-591095bd9a9e"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Image_1", "b78b6f0d-8a12-478c-b6f7-591095bd9a9e"]] = ["Image", "s-Image_1"]; 
+
+	widgets.descriptionMap[["s-Path_1", "6b60547a-1f49-4634-be9e-78a23595a606"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Path_1", "6b60547a-1f49-4634-be9e-78a23595a606"]] = ["Close", "s-Path_1"]; 
+
+	widgets.descriptionMap[["s-Image_1", "6b60547a-1f49-4634-be9e-78a23595a606"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Image_1", "6b60547a-1f49-4634-be9e-78a23595a606"]] = ["Image", "s-Image_1"]; 
 
 	widgets.descriptionMap[["s-Path_1", "d154fb2a-bc4f-4ecb-ac70-c5e4986fd241"]] = ""; 
 
@@ -2227,14 +2227,6 @@
 
 			widgets.rootWidgetMap[["s-Path_1", "c0d86d48-319c-4fae-9481-0777492afd92"]] = ["Next", "s-Group_1"]; 
 
-	widgets.descriptionMap[["s-Path_1", "e7ae7b83-771f-4d60-b035-9748400e29d6"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Path_1", "e7ae7b83-771f-4d60-b035-9748400e29d6"]] = ["Close", "s-Path_1"]; 
-
-	widgets.descriptionMap[["s-Image_1", "e7ae7b83-771f-4d60-b035-9748400e29d6"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Image_1", "e7ae7b83-771f-4d60-b035-9748400e29d6"]] = ["Image", "s-Image_1"]; 
-
 	widgets.descriptionMap[["s-Image", "430c5c36-1738-4098-9e31-d4d74450c759"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Image", "430c5c36-1738-4098-9e31-d4d74450c759"]] = ["Image", "s-Image"]; 
@@ -2754,6 +2746,14 @@
 	widgets.descriptionMap[["s-Image_8", "430c5c36-1738-4098-9e31-d4d74450c759"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Image_8", "430c5c36-1738-4098-9e31-d4d74450c759"]] = ["Image", "s-Image_8"]; 
+
+	widgets.descriptionMap[["s-Path_1", "e7ae7b83-771f-4d60-b035-9748400e29d6"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Path_1", "e7ae7b83-771f-4d60-b035-9748400e29d6"]] = ["Close", "s-Path_1"]; 
+
+	widgets.descriptionMap[["s-Image_1", "e7ae7b83-771f-4d60-b035-9748400e29d6"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Image_1", "e7ae7b83-771f-4d60-b035-9748400e29d6"]] = ["Image", "s-Image_1"]; 
 
 	widgets.descriptionMap[["s-Image", "23269caa-47a0-4046-9d3f-40fc17a5aa9e"]] = ""; 
 
@@ -3655,6 +3655,438 @@
 
 			widgets.rootWidgetMap[["s-Paragraph_5", "9ff2f8c2-cdcb-4d44-9a26-b1c6fa4cabf0"]] = ["h4", "s-Paragraph_5"]; 
 
+	widgets.descriptionMap[["s-Image", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Image", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Image", "s-Image"]; 
+
+	widgets.descriptionMap[["s-Image_3", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Image_3", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Image", "s-Image_3"]; 
+
+	widgets.descriptionMap[["s-Image_4", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Image_4", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Image", "s-Image_4"]; 
+
+	widgets.descriptionMap[["s-Button_9", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Button_9", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Basic button", "s-Button_9"]; 
+
+	widgets.descriptionMap[["s-Path_15", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Path_15", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Close", "s-Path_15"]; 
+
+	widgets.descriptionMap[["s-Image_5", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Image_5", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Image", "s-Image_5"]; 
+
+	widgets.descriptionMap[["s-Path_1", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Path_1", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Close", "s-Path_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Path_3", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Path_3", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_2", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_2", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Panel_2", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Panel_2", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Path_4", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Path_4", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Paragraph_1", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Paragraph_1", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Path_5", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Path_5", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_4", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_4", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Panel_3", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Panel_3", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Path_6", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Path_6", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Paragraph_2", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Paragraph_2", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Path_7", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Path_7", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_14", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_14", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Paragraph_3", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Paragraph_3", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_15", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_15", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Paragraph_4", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Paragraph_4", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_16", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_16", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Paragraph_34", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Paragraph_34", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_17", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_17", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Paragraph_35", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Paragraph_35", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_18", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_18", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Paragraph_36", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Paragraph_36", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_19", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_19", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Paragraph_37", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Paragraph_37", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_20", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_20", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Paragraph_38", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Paragraph_38", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_21", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_21", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Paragraph_39", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Paragraph_39", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_22", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_22", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Panel_4", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Panel_4", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Path_8", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Path_8", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Trash", "mi-34fd58ab-Path_8"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Paragraph_40", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Paragraph_40", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Path_9", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Path_9", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_24", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_24", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Panel_5", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Panel_5", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Path_10", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Path_10", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Trash", "mi-34fd58ab-Path_10"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Paragraph_41", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Paragraph_41", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Path_11", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Path_11", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_30", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_30", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Paragraph_42", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Paragraph_42", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_31", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_31", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Paragraph_43", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Paragraph_43", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_32", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_32", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Paragraph_44", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Paragraph_44", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_33", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_33", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Paragraph_45", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Paragraph_45", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_34", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_34", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Panel_6", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Panel_6", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Path_12", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Path_12", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Settings", "mi-34fd58ab-Path_12"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Paragraph_46", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Paragraph_46", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Path_13", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Path_13", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_36", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_36", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Panel_7", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Panel_7", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Path_14", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Path_14", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Settings", "mi-34fd58ab-Path_14"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Paragraph_47", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Paragraph_47", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Path_2", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Path_2", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_40", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_40", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Paragraph_48", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Paragraph_48", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_41", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_41", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Paragraph_49", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Paragraph_49", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_42", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_42", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Panel_8", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Panel_8", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Path_16", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Path_16", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Bookmark", "mi-34fd58ab-Path_16"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Paragraph_50", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Paragraph_50", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Path_17", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Path_17", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_44", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_44", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Panel_9", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Panel_9", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Path_18", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Path_18", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Bookmark", "mi-34fd58ab-Path_18"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Paragraph_51", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Paragraph_51", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Path_19", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Path_19", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_48", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_48", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Paragraph_52", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Paragraph_52", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_49", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_49", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Paragraph_53", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Paragraph_53", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_50", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_50", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Panel_10", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Panel_10", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Panel_1", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Panel_1", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Path_20", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Path_20", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_52", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_52", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Panel_12", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Panel_12", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Path_21", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Path_21", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_54", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_54", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Panel_13", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Panel_13", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Path_22", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Path_22", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Trash", "mi-34fd58ab-Path_22"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_56", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_56", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Panel_14", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Panel_14", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Path_23", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Path_23", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Settings", "mi-34fd58ab-Path_23"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_58", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_58", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Panel_15", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Panel_15", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Path_24", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Path_24", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Bookmark", "mi-34fd58ab-Path_24"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_60", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_60", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Panel_16", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Panel_16", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Path_25", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Path_25", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Path_26", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Path_26", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Path_27", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Path_27", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Path_28", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Path_28", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_62", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_62", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Panel_17", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Panel_17", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Path_29", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Path_29", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Cell_64", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Cell_64", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Panel_18", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Panel_18", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
+	widgets.descriptionMap[["mi-34fd58ab-Panel_11", "6aa1624b-be32-4772-9061-9473643aea81"]] = ""; 
+
+			widgets.rootWidgetMap[["mi-34fd58ab-Panel_11", "6aa1624b-be32-4772-9061-9473643aea81"]] = ["Side menu", "mi-34fd58ab-Dynamic_Panel_1"]; 
+
 	widgets.descriptionMap[["mi-01781ad5-Path_1", "8b655175-4c5d-4fff-8cee-9bc4f809e374"]] = ""; 
 
 			widgets.rootWidgetMap[["mi-01781ad5-Path_1", "8b655175-4c5d-4fff-8cee-9bc4f809e374"]] = ["Side menu", "mi-01781ad5-Dynamic_Panel_1"]; 
@@ -4546,34 +4978,6 @@
 	widgets.descriptionMap[["s-Image_9", "98ad5812-69ae-4a47-b681-31de39b7fee1"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Image_9", "98ad5812-69ae-4a47-b681-31de39b7fee1"]] = ["Image", "s-Image_9"]; 
-
-	widgets.descriptionMap[["s-Image", "9bd1fe8e-8b14-4383-b845-9ac8654e2810"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Image", "9bd1fe8e-8b14-4383-b845-9ac8654e2810"]] = ["Image", "s-Image"]; 
-
-	widgets.descriptionMap[["s-Image_3", "9bd1fe8e-8b14-4383-b845-9ac8654e2810"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Image_3", "9bd1fe8e-8b14-4383-b845-9ac8654e2810"]] = ["Image", "s-Image_3"]; 
-
-	widgets.descriptionMap[["s-Image_4", "9bd1fe8e-8b14-4383-b845-9ac8654e2810"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Image_4", "9bd1fe8e-8b14-4383-b845-9ac8654e2810"]] = ["Image", "s-Image_4"]; 
-
-	widgets.descriptionMap[["s-Button_9", "9bd1fe8e-8b14-4383-b845-9ac8654e2810"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Button_9", "9bd1fe8e-8b14-4383-b845-9ac8654e2810"]] = ["Basic button", "s-Button_9"]; 
-
-	widgets.descriptionMap[["s-Path_15", "9bd1fe8e-8b14-4383-b845-9ac8654e2810"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Path_15", "9bd1fe8e-8b14-4383-b845-9ac8654e2810"]] = ["Close", "s-Path_15"]; 
-
-	widgets.descriptionMap[["s-Image_5", "9bd1fe8e-8b14-4383-b845-9ac8654e2810"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Image_5", "9bd1fe8e-8b14-4383-b845-9ac8654e2810"]] = ["Image", "s-Image_5"]; 
-
-	widgets.descriptionMap[["s-Path_1", "9bd1fe8e-8b14-4383-b845-9ac8654e2810"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Path_1", "9bd1fe8e-8b14-4383-b845-9ac8654e2810"]] = ["Close", "s-Path_1"]; 
 
 	widgets.descriptionMap[["mi-5fa173c7-Path_84", "9bd1fe8e-8b14-4383-b845-9ac8654e2810"]] = ""; 
 

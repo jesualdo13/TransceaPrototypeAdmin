@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1684256398888.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1684259716070.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,8 +12,8 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="s-1b65ca5a-64b8-4ff5-88f5-a7f182e3e73c" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Ordenes Entregas Fallidas" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/1b65ca5a-64b8-4ff5-88f5-a7f182e3e73c-1684256398888.css" />\
-      <link type="text/css" rel="stylesheet" href="./resources/masters/91250b08-0f5e-426b-8b2c-1d193d97d774-1684256398888.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/1b65ca5a-64b8-4ff5-88f5-a7f182e3e73c-1684259716070.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/masters/91250b08-0f5e-426b-8b2c-1d193d97d774-1684259716070.css" />\
       <div class="freeLayout">\
       <div id="s-Paragraph_21" class="richtext autofit firer ie-background commentable non-processed" customid="&Oacute;rdenes con entrega falli"   datasizewidth="316.1px" datasizeheight="30.0px" dataX="617.4" dataY="62.0" >\
         <div class="backgroundLayer">\

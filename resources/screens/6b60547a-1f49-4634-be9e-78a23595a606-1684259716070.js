@@ -96,7 +96,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/430c5c36-1738-4098-9e31-d4d74450c759"
+                    "isbackward": true
                   },
                   "exectype": "serial",
                   "delay": 0
