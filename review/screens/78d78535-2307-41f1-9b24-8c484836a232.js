@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1684264239447.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1684436763698.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="s-78d78535-2307-41f1-9b24-8c484836a232" class="screen growth-vertical devWeb canvas PORTRAIT firer commentable non-processed" alignment="left" name="Contacto Actualizar" width="1010" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/78d78535-2307-41f1-9b24-8c484836a232-1684264239447.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/78d78535-2307-41f1-9b24-8c484836a232-1684436763698.css" />\
       <div class="freeLayout">\
       <div id="s-Group_2" class="group firer ie-background commentable non-processed" customid="Group 7" datasizewidth="0.0px" datasizeheight="0.0px" >\
         <div id="s-Rectangle_2" class="rectangle manualfit firer commentable hidden non-processed" customid="Rectangle 5"   datasizewidth="581.3px" datasizeheight="70.0px" datasizewidthpx="581.3122517496122" datasizeheightpx="69.99998140554914" dataX="391.0" dataY="16.0" >\
@@ -124,7 +124,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
         <div id="s-Input_1" class="text firer commentable non-processed" customid="Input 2"  datasizewidth="477.9px" datasizeheight="33.8px" dataX="269.5" dataY="230.1" ><div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
-        </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="Alejandro"/></div></div>  </div></div></div>\
+        </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="Rodrigo Aguilar"/></div></div>  </div></div></div>\
         <div id="s-Paragraph_3" class="richtext manualfit firer ie-background commentable non-processed" customid="Correo"   datasizewidth="235.8px" datasizeheight="38.8px" dataX="269.5" dataY="297.9" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
@@ -188,7 +188,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
         <div id="s-Input_2" class="text firer commentable non-processed" customid="Input 2"  datasizewidth="477.9px" datasizeheight="33.8px" dataX="269.5" dataY="336.6" ><div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
-        </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="alejandro@gmail.com"/></div></div>  </div></div></div>\
+        </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="rodrigo@gmail.com"/></div></div>  </div></div></div>\
         <div id="s-Paragraph_6" class="richtext autofit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="1.0px" datasizeheight="1.0px" dataX="274.1" dataY="418.8" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
@@ -207,7 +207,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
         <div id="s-Input_3" class="text firer commentable non-processed" customid="Input 2"  datasizewidth="477.9px" datasizeheight="33.8px" dataX="274.1" dataY="435.4" ><div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
-        </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="2229876543"/></div></div>  </div></div></div>\
+        </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="6680234563"/></div></div>  </div></div></div>\
         <div id="s-Paragraph_7" class="richtext autofit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="1.0px" datasizeheight="1.0px" dataX="269.2" dataY="503.9" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
