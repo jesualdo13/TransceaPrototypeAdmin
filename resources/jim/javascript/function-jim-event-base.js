@@ -187,12 +187,14 @@
 		      /* if undos type is mouseenter and the undo target and current target are in the same */
 		      /* if undos action type is ChangeStyle, then must be erased from the undo stack */
 		      if(lastUndo.type === "mouseenter" && lastUndoAction.action === "jimChangeStyle"){
-		    	for(undoTarget in lastUndoAction.parameter[0]){
-		    	  for(currentTarget in current.parameter[0]){
-		    		if(undoTarget === currentTarget){
-		    		  undoStack.splice(l, 1);
-		    		  $firer.data("jimUndoStack", undoStack);
-		    		  break;		    			
+		    	for(var i = 0; i < lastUndoAction.parameter.length; ++i) {
+				  var undoParameters = lastUndoAction.parameter[i];
+		    	  for(var j = 0; j < current.parameter.length; ++j) {	
+					var currentParameters = current.parameter[j];
+		    		if(currentParameters.target && undoParameters.target && undoParameters.target[0] == currentParameters.target[0]) {
+						for (currentAtt in currentParameters.attributes)
+							delete undoParameters.attributes[currentAtt]
+					  //lastUndoAction.parameter.splice(lastUndoAction.parameter.indexOf(undoParameters), 1);
 		    		}
 		    	  }
 		    	}
@@ -477,6 +479,13 @@
 								undoStyle.attributes[property] = $target.css(property);
 								jimUtil.borderColorChangedUndo($target,property,undoStyle.attributes);
 							}
+							else if (property == "path-filter") {
+								var filterItem = $target.find("filter");
+								if (filterItem.size() > 0)
+									undoStyle.attributes["path-filter"] = filterItem[0].outerHTML;
+								else 
+									undoStyle.attributes["path-filter"] = "none";
+							}
                         	else
                         	  undoStyle.attributes[property] = $target.css(property);
                           }
@@ -687,20 +696,33 @@
                 break;
               case "jimResize":
             	var widthExpr,heightExpr;
-              	if($target.data("widthUnit")=="%")
-              		widthExpr = {"type":"percentage","value":parseInt($target.data("width"))};
-              	else
-              		widthExpr =  {"type":"exprvalue","value":parseInt($target.outerWidth(),10)};
+              switch (type) {
+                // table cell width and height is in % when first set
+                case itemType.cellcontainer:
+                  widthExpr =  {"type":"exprvalue","value":parseInt($target.data("width"),10)};
+                  heightExpr =  {"type":"exprvalue","value":parseInt($target.data("height"),10)};
+                  break;
+                default:
+                  if($target.data("widthUnit")=="%")
+                    widthExpr = {"type":"percentage","value":parseInt($target.data("width"))};
+				  else if ($target.is(".shape"))
+					widthExpr = {"type":"exprvalue","value":parseInt($target.closest(".shapewrapper").outerWidth(), 10)};
+                  else
+                    widthExpr =  {"type":"exprvalue","value":parseInt($target.outerWidth(),10)};
 
-              	if($target.data("heightUnit")=="%")
-              		heightExpr = {"type":"percentage","value":parseInt($target.data("height"))};
-              	else
-              		heightExpr =  {"type":"exprvalue","value":parseInt($target.outerHeight(),10)};
+                  if($target.data("heightUnit")=="%")
+                    heightExpr = {"type":"percentage","value":parseInt($target.data("height"))};
+                  else if ($target.is(".shape"))
+					heightExpr = {"type":"exprvalue","value":parseInt($target.closest(".shapewrapper").outerHeight(), 10)};
+				  else
+                    heightExpr =  {"type":"exprvalue","value":parseInt($target.outerHeight(),10)};
+                  break;
+              }
 
                 undoAction = {
                   "action": "jimResize",
                   "parameter": {
-                    "target": action.parameter.target,
+                    "target": [$target.selector],
                     "width": widthExpr,
                      "height": heightExpr
                   }

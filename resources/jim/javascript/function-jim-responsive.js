@@ -228,7 +228,8 @@
   					else if(canvasLoad==undefined && !isHidden) {
   						jimResponsive.refreshResponsivePanels($t);
   					}
-  					$t.removeClass("non-processed-percentage");*/
+  					$t.removeClass("non-processed-percentage");
+  					break;*/
   				case itemType.shapewrapper:
   					jimResponsive.refreshResponsiveShapes($t);
   					$t.removeClass("non-processed-percentage");

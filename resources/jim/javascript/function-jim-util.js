@@ -234,8 +234,8 @@
       position.left = position.left + (scroll.left*(1/zoom)) - simulationBounds.left;
 
       if(!jimUtil.exists(returnBBox)  || returnBBox===false){
-		  var width = jimUtil.isRelative(this) ? position.width : this[0].offsetWidth;
-		  var height = jimUtil.isRelative(this) ? position.height : this[0].offsetHeight;
+		  var width = jimUtil.isRelative(this) ? position.width : this[0].getBoundingClientRect().width;
+		  var height = jimUtil.isRelative(this) ? position.height : this[0].getBoundingClientRect().height;
 		  
           position.top += (position.height - (height/(1/jimUtil.getTotalScale())))/2;
           position.left += (position.width - (width/(1/jimUtil.getTotalScale())))/2;
@@ -1698,21 +1698,21 @@
 
           var $canvas = jQuery(".screen:last > #alignmentBox,.template:last > #alignmentBox");
           var $jimContainer = jQuery("#jim-container");
-	      var deviceWidth = parseFloat($jimContainer.css("width"));
-	      var deviceHeight = parseFloat($jimContainer.css("height"));
-
-	      if(isNaN(deviceWidth) || isNaN(deviceHeight)){
-	      	// web prototypes
-			var page = jQuery(".ui-page");
-			deviceHeight = parseFloat(page.attr('deviceheight'));
-			deviceWidth = parseFloat(page.attr('devicewidth'));
-			
-			if(isNaN(deviceWidth) || isNaN(deviceHeight)) {
-				deviceWidth = $("#jim-body").outerWidth();
-				deviceHeight = $("#jim-body").outerHeight();
-			}
+	  
+	   
+		  var page = jQuery(".ui-page");
+		  var deviceHeight = parseFloat(page.attr('deviceheight'));
+		  var deviceWidth = parseFloat(page.attr('devicewidth'));
+		  
+		  if(isNaN(deviceWidth) || isNaN(deviceHeight)){
+	       	deviceWidth = parseFloat($jimContainer.css("width"));
+	      	deviceHeight = parseFloat($jimContainer.css("height"));
 	      }
-
+		  if(isNaN(deviceWidth) || isNaN(deviceHeight)) {
+			deviceWidth = $("#jim-body").outerWidth();
+			deviceHeight = $("#jim-body").outerHeight();
+		  }
+	     
 	      var lockVerticalScroll = jQuery(".screen.growth-horizontal").length>0 || jQuery(".screen.growth-none").length>0;
 	      var lockHorizontalScroll = jQuery(".screen.growth-vertical").length>0 || jQuery(".screen.growth-none").length>0;
 	      if($canvas.parents(".screen").size()<=0 || isNaN(deviceWidth) || isNaN(deviceHeight)){
@@ -2474,6 +2474,9 @@
 		},
 	"changeSVGFilter" : function(obj, newFilter) {
 		var path = $(obj);
+		
+		if (newFilter == "none")
+			newFilter = "";
 		
 		// get path id
 		var viewport = path.closest("div.imageViewport");

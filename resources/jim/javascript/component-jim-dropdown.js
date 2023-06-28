@@ -14,6 +14,7 @@
 			jQuery(".jim-web-dd").stop().hide({duration: 300, effect: "slide", direction: "up"});
 		}
 		jQuery(".jim-web-dd").get(0).style.removeProperty('height');
+		$dropdown.closest(".firer").trigger("focusout");
 		unbindClickEvents();
 		var value = $dropdown.children(".valign").children(".value").text();
 		if(initialInputValue!==value) {
@@ -24,6 +25,7 @@
   function loadDropDown() {
   	if(jQuery(".jim-web-dd").is(':visible')) {
   		jQuery(".jim-web-dd").stop().hide({duration: 300, effect: "slide", direction: "up"});
+  		$dropdown.closest(".firer").trigger("focusout");
   		unbindClickEvents();
   		return false;
   	}
@@ -31,6 +33,7 @@
   		unloadDropDown();
   		unbindClickEvents();
   		createDropDown($dropdown);
+  		$dropdown.closest(".firer").trigger("focusin");
   		fillDropDownOptions($dropdown);
 		bindClickEvents();
 		bindDropDown($dropdown);

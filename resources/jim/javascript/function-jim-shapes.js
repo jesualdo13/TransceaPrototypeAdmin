@@ -64,13 +64,13 @@
         if(this[0].css2svg && jimUtil.exists(this[0].css2svg[property]))
             return this[0].css2svg[property];
         else{
-        	if(property == "width" || property == "height" || property == "top" || property == "left" || property == "transform"){
+        	if(property == "width" || property == "height" || property == "top" || property == "left" || property == "transform" || property == "filter") {
 				var wrapper = this.closest(".shapewrapper");
 				if (property == "transform")
 					wrapper.jimForceVisibility();
 				
         		var res = wrapper.css(property);
-        		if (property !== "transform")
+        		if (property !== "transform" && property !== "filter")
         			res = parseFloat(res);
 				
 				if (property == "transform")
@@ -338,6 +338,7 @@
             }
             //UPDATE BACKGROUND
             SVGEngine.updateBackground(shapeSVG);
+            SVGEngine.updateFilter(shapeSVG);
         },
         "updateLine" : function(shapeSVG, shapePath, style){
 			if(style)
@@ -513,6 +514,10 @@
                 jQuery(shapeSVG).css("fill", "url(#" + defsContent.getAttribute("id") + ")");
             }
         },
+        "updateFilter" : function(shapeSVG) {
+        	var shapeFilter = $(shapeSVG.shapewrapper).css("filter");
+        	shapeSVG.css2svg["filter"] = shapeFilter;
+        }, 
 
         "_setBorderWidth" : function(shapeSVG, borderWidth) {
             shapeSVG.css2svg["stroke-width"] = borderWidth;

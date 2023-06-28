@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="m-91250b08-0f5e-426b-8b2c-1d193d97d774" class="master growth-both devWeb canvas firer ie-background commentable non-processed" alignment="left" name="MenuLateral" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/masters/91250b08-0f5e-426b-8b2c-1d193d97d774-1684436763698.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/masters/91250b08-0f5e-426b-8b2c-1d193d97d774-1687982031288.css" />\
       <div class="freeLayout">\
       <div id="Dynamic_Panel_45" class="dynamicpanel firer commentable non-processed" customid="Dropdown side menu with tree" datasizewidth="237.0px" datasizeheight="2200.0px" dataX="0.0" dataY="0.0" >\
         <div id="Panel_53" class="panel default firer commentable non-processed" customid="Expanded"  datasizewidth="237.0px" datasizeheight="2200.0px" >\
@@ -86,7 +86,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                       </div>\
                     </div>\
                   </div>\
-                </div><div id="Dynamic_Panel_18" class="dynamicpanel firer ie-background commentable non-processed" customid="Category 1" datasizewidth="239.0px" datasizeheight="461.0px" dataX="0.0" dataY="0.0" >\
+                </div><div id="Dynamic_Panel_18" class="dynamicpanel firer ie-background commentable non-processed" customid="Category 1" datasizewidth="239.0px" datasizeheight="517.0px" dataX="0.0" dataY="0.0" >\
                   <div id="Panel_59" class="panel hidden firer ie-background commentable non-processed" customid="Collapsed"  datasizewidth="239.0px" datasizeheight="56.0px" >\
                     <div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
@@ -188,7 +188,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                       </div>\
                     </div>\
                   </div>\
-                  <div id="Panel_60" class="panel default firer ie-background commentable non-processed" customid="Expanded"  datasizewidth="239.0px" datasizeheight="461.0px" >\
+                  <div id="Panel_60" class="panel default firer ie-background commentable non-processed" customid="Expanded"  datasizewidth="239.0px" datasizeheight="517.0px" >\
                     <div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
@@ -742,7 +742,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                     	<div class="layoutWrapper scrollable">\
                     	  <div class="paddingLayer">\
                           <div class="freeLayout">\
-                          <div id="Table_57" class="table firer ie-background commentable non-processed" customid="Table"  datasizewidth="239.0px" datasizeheight="255.9px" dataX="-1.1" dataY="0.0" originalwidth="239.0px" originalheight="255.90000000000006px" >\
+                          <div id="Table_57" class="table firer ie-background commentable non-processed" customid="Table"  datasizewidth="239.0px" datasizeheight="255.9px" dataX="-4.0" dataY="0.0" originalwidth="239.0px" originalheight="255.90000000000006px" >\
                             <div class="backgroundLayer">\
                               <div class="colorLayer"></div>\
                               <div class="imageLayer"></div>\
@@ -862,7 +862,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                                       </td>\
                                     </tr>\
                                     <tr>\
-                                      <td id="Cell_343" customid="Cell 2" class="cellcontainer firer mouseenter mouseleave ie-background non-processed"    datasizewidth="239.0px" datasizeheight="50.0px" dataX="0.0" dataY="24.3" originalwidth="239.0px" originalheight="49.999999999999986px" >\
+                                      <td id="Cell_343" customid="Cell 2" class="cellcontainer firer mouseenter mouseleave click ie-background non-processed"    datasizewidth="239.0px" datasizeheight="50.0px" dataX="0.0" dataY="24.3" originalwidth="239.0px" originalheight="49.999999999999986px" >\
                                         <div class="cellContainerChild">\
                                           <div class="backgroundLayer">\
                                             <div class="colorLayer"></div>\
@@ -874,7 +874,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                                                 <div class="left ghostHLayout">\
                                                 <table class="layout" summary="">\
                                                   <tr>\
-                                                    <td class="layout horizontal insertionpoint verticalalign Cell_343 Table_57" valign="middle" align="left" hSpacing="15" vSpacing="0"><div id="Paragraph_251" class="richtext autofit firer ie-background commentable non-processed" customid="Destinatarios"   datasizewidth="87.5px" datasizeheight="17.0px" dataX="38.0" dataY="10.0" >\
+                                                    <td class="layout horizontal insertionpoint verticalalign Cell_343 Table_57" valign="middle" align="left" hSpacing="15" vSpacing="0"><div id="Paragraph_251" class="richtext autofit firer click ie-background commentable non-processed" customid="Destinatarios"   datasizewidth="87.5px" datasizeheight="17.0px" dataX="38.0" dataY="10.0" >\
                                                   <div class="backgroundLayer">\
                                                     <div class="colorLayer"></div>\
                                                     <div class="imageLayer"></div>\
@@ -900,7 +900,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                                       </td>\
                                     </tr>\
                                     <tr>\
-                                      <td id="Cell_344" customid="Cell 3" class="cellcontainer firer mouseenter mouseleave ie-background non-processed"    datasizewidth="239.0px" datasizeheight="50.0px" dataX="0.0" dataY="24.3" originalwidth="239.0px" originalheight="49.999999999999986px" >\
+                                      <td id="Cell_344" customid="Cell 3" class="cellcontainer firer click ie-background non-processed"    datasizewidth="239.0px" datasizeheight="50.0px" dataX="0.0" dataY="24.3" originalwidth="239.0px" originalheight="49.999999999999986px" >\
                                         <div class="cellContainerChild">\
                                           <div class="backgroundLayer">\
                                             <div class="colorLayer"></div>\
@@ -912,7 +912,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                                                 <div class="left ghostHLayout">\
                                                 <table class="layout" summary="">\
                                                   <tr>\
-                                                    <td class="layout horizontal insertionpoint verticalalign Cell_344 Table_57" valign="middle" align="left" hSpacing="15" vSpacing="0"><div id="Paragraph_255" class="richtext autofit firer ie-background commentable non-processed" customid="Destinos"   datasizewidth="58.4px" datasizeheight="17.0px" dataX="50.0" dataY="20.0" >\
+                                                    <td class="layout horizontal insertionpoint verticalalign Cell_344 Table_57" valign="middle" align="left" hSpacing="15" vSpacing="0"><div id="Paragraph_255" class="richtext autofit firer click ie-background commentable non-processed" customid="Destinos"   datasizewidth="58.4px" datasizeheight="17.0px" dataX="50.0" dataY="20.0" >\
                                                   <div class="backgroundLayer">\
                                                     <div class="colorLayer"></div>\
                                                     <div class="imageLayer"></div>\
@@ -938,7 +938,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                                       </td>\
                                     </tr>\
                                     <tr>\
-                                      <td id="Cell_345" customid="Cell 4" class="cellcontainer firer mouseenter mouseleave ie-background non-processed"    datasizewidth="239.0px" datasizeheight="50.0px" dataX="0.0" dataY="24.3" originalwidth="239.0px" originalheight="49.999999999999986px" >\
+                                      <td id="Cell_345" customid="Cell 4" class="cellcontainer firer mouseenter mouseleave click ie-background non-processed"    datasizewidth="239.0px" datasizeheight="50.0px" dataX="0.0" dataY="24.3" originalwidth="239.0px" originalheight="49.999999999999986px" >\
                                         <div class="cellContainerChild">\
                                           <div class="backgroundLayer">\
                                             <div class="colorLayer"></div>\
@@ -950,7 +950,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                                                 <div class="left ghostHLayout">\
                                                 <table class="layout" summary="">\
                                                   <tr>\
-                                                    <td class="layout horizontal insertionpoint verticalalign Cell_345 Table_57" valign="middle" align="left" hSpacing="15" vSpacing="0"><div id="Paragraph_256" class="richtext autofit firer ie-background commentable non-processed" customid="Contactos"   datasizewidth="67.5px" datasizeheight="17.0px" dataX="60.0" dataY="30.0" >\
+                                                    <td class="layout horizontal insertionpoint verticalalign Cell_345 Table_57" valign="middle" align="left" hSpacing="15" vSpacing="0"><div id="Paragraph_256" class="richtext autofit firer click ie-background commentable non-processed" customid="Contactos"   datasizewidth="67.5px" datasizeheight="17.0px" dataX="60.0" dataY="30.0" >\
                                                   <div class="backgroundLayer">\
                                                     <div class="colorLayer"></div>\
                                                     <div class="imageLayer"></div>\

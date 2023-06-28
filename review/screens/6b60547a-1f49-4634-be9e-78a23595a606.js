@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1684436763698.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1687982031288.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,9 +12,9 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="s-6b60547a-1f49-4634-be9e-78a23595a606" class="screen growth-vertical devWeb canvas PORTRAIT firer commentable non-processed" alignment="left" name="Contactos Crear" width="1038" height="813">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/6b60547a-1f49-4634-be9e-78a23595a606-1684436763698.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/6b60547a-1f49-4634-be9e-78a23595a606-1687982031288.css" />\
       <div class="freeLayout">\
-      <div id="s-Paragraph_1" class="richtext autofit firer ie-background commentable non-processed" customid="Crear Contacto"   datasizewidth="202.3px" datasizeheight="32.0px" dataX="417.9" dataY="178.0" >\
+      <div id="s-Paragraph_1" class="richtext manualfit firer ie-background commentable non-processed" customid="Crear contacto para Carlo"   datasizewidth="653.0px" datasizeheight="96.0px" dataX="181.5" dataY="230.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -23,7 +23,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           <div class="paddingLayer">\
             <div class="content">\
               <div class="valign">\
-                <span id="rtr-s-Paragraph_1_0">Crear Contacto</span>\
+                <span id="rtr-s-Paragraph_1_0">Crear contacto para Carlos Murrieta en los Mochis Sinaloa colonia Alamos Calle Agust&iacute;n Melgar </span>\
               </div>\
             </div>\
           </div>\
@@ -46,7 +46,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
       </div>\
 \
       <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Group 1" datasizewidth="0.0px" datasizeheight="0.0px" >\
-        <div id="s-Rectangle_5" class="rectangle manualfit firer commentable non-processed" customid="Rectangle 5"   datasizewidth="559.0px" datasizeheight="520.4px" datasizewidthpx="559.0000000000002" datasizeheightpx="520.4393798070355" dataX="240.0" dataY="245.8" >\
+        <div id="s-Rectangle_5" class="rectangle manualfit firer commentable non-processed" customid="Rectangle 5"   datasizewidth="662.0px" datasizeheight="560.4px" datasizewidthpx="662.0" datasizeheightpx="560.4393788630017" dataX="177.0" dataY="325.8" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -61,7 +61,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             </div>\
           </div>\
         </div>\
-        <div id="s-Paragraph_5" class="richtext autofit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="1.0px" datasizeheight="1.0px" dataX="283.7" dataY="281.1" >\
+        <div id="s-Paragraph_5" class="richtext autofit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="1.2px" datasizeheight="1.1px" dataX="228.7" dataY="363.8" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -76,7 +76,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             </div>\
           </div>\
         </div>\
-        <div id="s-Paragraph_6" class="richtext manualfit firer ie-background commentable non-processed" customid="Nombre"   datasizewidth="96.5px" datasizeheight="27.0px" dataX="284.0" dataY="304.7" >\
+        <div id="s-Paragraph_6" class="richtext manualfit firer ie-background commentable non-processed" customid="Nombre *"   datasizewidth="114.3px" datasizeheight="29.1px" dataX="234.5" dataY="460.2" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -85,17 +85,17 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Paragraph_6_0">Nombre</span>\
+                  <span id="rtr-s-Paragraph_6_0">Nombre </span><span id="rtr-s-Paragraph_6_1">*</span>\
                 </div>\
               </div>\
             </div>\
           </div>\
         </div>\
-        <div id="s-Input_2" class="text firer commentable non-processed" customid="Input 2"  datasizewidth="477.9px" datasizeheight="33.8px" dataX="284.0" dataY="341.1" ><div class="backgroundLayer">\
+        <div id="s-Input_2" class="text firer commentable non-processed" customid="Input 2"  datasizewidth="565.9px" datasizeheight="26.2px" dataX="234.5" dataY="498.1" ><div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
         </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder=""/></div></div>  </div></div></div>\
-        <div id="s-Paragraph_7" class="richtext manualfit firer ie-background commentable non-processed" customid="Correo"   datasizewidth="235.8px" datasizeheight="38.8px" dataX="284.0" dataY="408.9" >\
+        <div id="s-Paragraph_7" class="richtext manualfit firer ie-background commentable non-processed" customid="Correo *"   datasizewidth="279.3px" datasizeheight="25.6px" dataX="234.5" dataY="559.1" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -104,13 +104,13 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Paragraph_7_0">Correo</span>\
+                  <span id="rtr-s-Paragraph_7_0">Correo </span><span id="rtr-s-Paragraph_7_1">*</span>\
                 </div>\
               </div>\
             </div>\
           </div>\
         </div>\
-        <div id="s-Paragraph_8" class="richtext manualfit firer ie-background commentable non-processed" customid="Tel&eacute;fono"   datasizewidth="180.8px" datasizeheight="36.6px" dataX="283.7" dataY="510.0" >\
+        <div id="s-Paragraph_8" class="richtext manualfit firer ie-background commentable non-processed" customid="Tel&eacute;fono *"   datasizewidth="214.1px" datasizeheight="25.0px" dataX="234.5" dataY="647.4" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -119,13 +119,13 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Paragraph_8_0">Tel&eacute;fono</span>\
+                  <span id="rtr-s-Paragraph_8_0">Tel&eacute;fono </span><span id="rtr-s-Paragraph_8_1">*</span>\
                 </div>\
               </div>\
             </div>\
           </div>\
         </div>\
-        <div id="s-Paragraph_9" class="richtext autofit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="1.0px" datasizeheight="1.0px" dataX="283.7" dataY="707.3" >\
+        <div id="s-Paragraph_9" class="richtext autofit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="1.2px" datasizeheight="1.1px" dataX="228.7" dataY="822.8" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -140,7 +140,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             </div>\
           </div>\
         </div>\
-        <div id="s-Button_7" class="button multiline manualfit firer click commentable non-processed" customid="Cancelar"   datasizewidth="233.6px" datasizeheight="33.8px" dataX="283.7" dataY="640.5" >\
+        <div id="s-Button_7" class="button multiline manualfit firer click commentable non-processed" customid="Cancelar"   datasizewidth="276.6px" datasizeheight="26.9px" dataX="228.7" dataY="740.3" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -155,11 +155,11 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             </div>\
           </div>\
         </div>\
-        <div id="s-Input_3" class="text firer commentable non-processed" customid="Input 2"  datasizewidth="477.9px" datasizeheight="33.8px" dataX="284.0" dataY="447.6" ><div class="backgroundLayer">\
+        <div id="s-Input_3" class="text firer commentable non-processed" customid="Input 2"  datasizewidth="565.9px" datasizeheight="26.2px" dataX="235.0" dataY="592.9" ><div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
         </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder=""/></div></div>  </div></div></div>\
-        <div id="s-Paragraph_10" class="richtext autofit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="1.0px" datasizeheight="1.0px" dataX="288.6" dataY="529.8" >\
+        <div id="s-Paragraph_10" class="richtext autofit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="1.2px" datasizeheight="1.1px" dataX="234.5" dataY="631.7" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -174,11 +174,11 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             </div>\
           </div>\
         </div>\
-        <div id="s-Input_4" class="text firer commentable non-processed" customid="Input 2"  datasizewidth="477.9px" datasizeheight="33.8px" dataX="288.6" dataY="546.4" ><div class="backgroundLayer">\
+        <div id="s-Input_4" class="text firer commentable non-processed" customid="Input 2"  datasizewidth="565.9px" datasizeheight="28.4px" dataX="234.5" dataY="682.6" ><div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
         </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder=""/></div></div>  </div></div></div>\
-        <div id="s-Paragraph_11" class="richtext autofit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="1.0px" datasizeheight="1.0px" dataX="283.7" dataY="614.9" >\
+        <div id="s-Paragraph_11" class="richtext autofit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="1.2px" datasizeheight="1.1px" dataX="228.7" dataY="723.2" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -193,7 +193,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             </div>\
           </div>\
         </div>\
-        <div id="s-Button_8" class="button multiline manualfit firer click commentable non-processed" customid="Aceptar"   datasizewidth="233.6px" datasizeheight="33.8px" dataX="532.9" dataY="640.5" >\
+        <div id="s-Button_8" class="button multiline manualfit firer click commentable non-processed" customid="Aceptar"   datasizewidth="276.6px" datasizeheight="26.9px" dataX="518.3" dataY="740.3" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -269,6 +269,15 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
+      </div>\
+\
+\
+      <div id="s-Image" class="image firer ie-background commentable hidden non-processed" customid="Image"   datasizewidth="100.0px" datasizeheight="100.0px" dataX="898.0" dataY="836.2"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="resources/jim/images/common/cross.svg" />\
+        	</div>\
+        </div>\
       </div>\
 \
       </div>\
