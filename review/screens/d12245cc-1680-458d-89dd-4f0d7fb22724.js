@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1687982031288.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1688488257545.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="s-d12245cc-1680-458d-89dd-4f0d7fb22724" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Login" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1687982031288.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1688488257545.css" />\
       <div class="freeLayout">\
       <div id="s-Paragraph_2" class="richtext manualfit firer ie-background commentable non-processed" customid="Clientes"   datasizewidth="62.2px" datasizeheight="18.0px" dataX="164.2" dataY="290.0" >\
         <div class="backgroundLayer">\
@@ -46,7 +46,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
         <div class="colorLayer"></div>\
         <div class="imageLayer"></div>\
       </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="password"  value="" maxlength="100"  tabindex="-1" placeholder="Mi contrase&ntilde;a"/></div></div></div></div></div>\
-      <div id="s-Paragraph_10" class="richtext autofit firer ie-background commentable non-processed" customid="Usuario"   datasizewidth="59.6px" datasizeheight="20.0px" dataX="31.2" dataY="364.0" >\
+      <div id="s-Paragraph_10" class="richtext autofit firer ie-background commentable non-processed" customid="Usuario"   datasizewidth="59.6px" datasizeheight="18.0px" dataX="31.2" dataY="364.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -61,7 +61,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_11" class="richtext autofit firer ie-background commentable non-processed" customid="Contrase&ntilde;a"   datasizewidth="88.0px" datasizeheight="20.0px" dataX="31.2" dataY="457.0" >\
+      <div id="s-Paragraph_11" class="richtext autofit firer ie-background commentable non-processed" customid="Contrase&ntilde;a"   datasizewidth="88.0px" datasizeheight="18.0px" dataX="31.2" dataY="457.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -91,7 +91,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_12" class="richtext manualfit firer ie-background commentable non-processed" customid="H1"   datasizewidth="317.5px" datasizeheight="60.0px" dataX="31.2" dataY="189.0" >\
+      <div id="s-Paragraph_12" class="richtext manualfit firer ie-background commentable non-processed" customid="H1"   datasizewidth="317.5px" datasizeheight="55.0px" dataX="31.2" dataY="189.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -106,7 +106,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_1" class="richtext autofit firer ie-background commentable non-processed" customid="Por favor, inicia sesi&oacute;n"   datasizewidth="227.4px" datasizeheight="27.0px" dataX="31.5" dataY="268.0" >\
+      <div id="s-Paragraph_1" class="richtext autofit firer ie-background commentable non-processed" customid="Por favor, inicia sesi&oacute;n"   datasizewidth="227.4px" datasizeheight="25.0px" dataX="31.5" dataY="268.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -121,7 +121,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_3" class="richtext autofit firer ie-background commentable non-processed" customid="Recordar mi contrase&ntilde;a"   datasizewidth="192.1px" datasizeheight="22.0px" dataX="64.4" dataY="559.5" >\
+      <div id="s-Paragraph_3" class="richtext autofit firer ie-background commentable non-processed" customid="Recordar mi contrase&ntilde;a"   datasizewidth="192.1px" datasizeheight="20.0px" dataX="64.4" dataY="559.5" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -142,7 +142,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           <div class="imageLayer"></div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_4" class="richtext autofit firer ie-background commentable non-processed" customid="Olvid&eacute; mi contrase&ntilde;a"   datasizewidth="169.1px" datasizeheight="22.0px" dataX="361.0" dataY="559.5" >\
+      <div id="s-Paragraph_4" class="richtext autofit firer ie-background commentable non-processed" customid="Olvid&eacute; mi contrase&ntilde;a"   datasizewidth="169.1px" datasizeheight="20.0px" dataX="361.0" dataY="559.5" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\

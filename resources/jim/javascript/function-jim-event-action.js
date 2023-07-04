@@ -194,7 +194,7 @@
 
   function changeSvgProperty(obj, cssAttrName, value, animated, attributes, targetEntry) {
   	var paths = obj.find("path, rect, circle, ellipse, line, polyline, polygon, use").not("defs *");
-  	if ((value != "none" || cssAttrName == "path-filter") && value != "") {
+  	if (value != "none" && value != "") {
   		if (cssAttrName == "path-stroke") {
   			if (animated) {
 				(function (elem, newColor) {									
@@ -1925,16 +1925,10 @@
                   jQuery.extend(effect,{"progress": progress2});
                   jQuery.extend(effect,{"complete": complete2});
 
-				  if ((percentageWidth || percentageHeight) && $target.hasClass("panel") && $target.parent().hasClass("dynamicpanel"))
-					$target.parent().animate(properties, effect);
-				  else 
-                  	$target.animate(properties, effect);
+
+                  $target.animate(properties, effect);
                 } else {
-                
-                  if ((percentageWidth || percentageHeight) && $target.hasClass("panel") && $target.parent().hasClass("dynamicpanel"))
-                  	$target.parent().css(properties);
-                  else
-                    $target.css(properties);
+                  $target.css(properties);
 
                   if(bShape) {
                     shapeStyle = {};

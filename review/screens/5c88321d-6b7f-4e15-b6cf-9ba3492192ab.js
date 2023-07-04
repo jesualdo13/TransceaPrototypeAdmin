@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1687982031288.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1688488257545.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="s-5c88321d-6b7f-4e15-b6cf-9ba3492192ab" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Crear Destino Men&uacute;" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/5c88321d-6b7f-4e15-b6cf-9ba3492192ab-1687982031288.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/5c88321d-6b7f-4e15-b6cf-9ba3492192ab-1688488257545.css" />\
       <div class="freeLayout">\
       <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Group 4" datasizewidth="0.0px" datasizeheight="0.0px" >\
         <div id="s-Rectangle_1" class="rectangle manualfit firer commentable non-processed" customid="Rectangle 5"   datasizewidth="615.0px" datasizeheight="702.4px" datasizewidthpx="615.0000000000002" datasizeheightpx="702.4393798070354" dataX="375.0" dataY="122.8" >\

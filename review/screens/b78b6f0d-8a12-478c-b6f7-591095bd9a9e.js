@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1687982031288.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1688488257545.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="s-b78b6f0d-8a12-478c-b6f7-591095bd9a9e" class="screen growth-vertical devWeb canvas PORTRAIT firer commentable non-processed" alignment="left" name="Destinos Crear" width="1038" height="813">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/b78b6f0d-8a12-478c-b6f7-591095bd9a9e-1687982031288.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/b78b6f0d-8a12-478c-b6f7-591095bd9a9e-1688488257545.css" />\
       <div class="freeLayout">\
       <div id="s-Paragraph_1" class="richtext autofit firer ie-background commentable non-processed" customid="Crear destino para Carlos"   datasizewidth="438.8px" datasizeheight="32.0px" dataX="297.3" dataY="161.0" >\
         <div class="backgroundLayer">\
@@ -197,7 +197,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
         </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder=""/></div></div>  </div></div></div>\
-        <div id="s-Button_1" class="button multiline manualfit firer click commentable non-processed" customid="Cancelar"   datasizewidth="219.8px" datasizeheight="27.8px" dataX="297.1" dataY="664.5" >\
+        <div id="s-Button_1" class="button multiline manualfit firer click commentable non-processed" customid="Cancelar"   datasizewidth="219.8px" datasizeheight="27.8px" dataX="297.1" dataY="724.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -212,26 +212,11 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             </div>\
           </div>\
         </div>\
-        <div id="s-Paragraph_20" class="richtext autofit firer ie-background commentable hidden non-processed" customid="Paragraph"   datasizewidth="1.0px" datasizeheight="1.1px" dataX="297.1" dataY="664.5" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Paragraph_20_0"></span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
         <div id="s-Input_14" class="text firer commentable non-processed" customid="Input 2"  datasizewidth="449.7px" datasizeheight="27.8px" dataX="297.1" dataY="517.2" ><div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
         </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder=""/></div></div>  </div></div></div>\
-        <div id="s-Button_2" class="button multiline manualfit firer click commentable non-processed" customid="Aceptar"   datasizewidth="219.8px" datasizeheight="27.8px" dataX="526.9" dataY="664.5" >\
+        <div id="s-Button_2" class="button multiline manualfit firer click commentable non-processed" customid="Aceptar"   datasizewidth="219.8px" datasizeheight="27.8px" dataX="521.8" dataY="723.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -241,6 +226,29 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
               <div class="content">\
                 <div class="valign">\
                   <span id="rtr-s-Button_2_0">Aceptar</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Input_1" class="text firer commentable non-processed" customid="Input 2"  datasizewidth="449.7px" datasizeheight="27.8px" dataX="830.0" dataY="-100.0" ><div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder=""/></div></div>  </div></div></div>\
+        <div id="s-Input_2" class="text firer commentable non-processed" customid="Input 2"  datasizewidth="449.7px" datasizeheight="27.8px" dataX="297.0" dataY="665.0" ><div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder=""/></div></div>  </div></div></div>\
+        <div id="s-Paragraph_2" class="richtext manualfit firer ie-background commentable non-processed" customid="Referencia"   datasizewidth="172.7px" datasizeheight="25.0px" dataX="297.0" dataY="640.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_2_0">Referencia</span>\
                 </div>\
               </div>\
             </div>\

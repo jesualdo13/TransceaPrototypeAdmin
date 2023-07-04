@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="m-91250b08-0f5e-426b-8b2c-1d193d97d774" class="master growth-both devWeb canvas firer ie-background commentable non-processed" alignment="left" name="MenuLateral" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/masters/91250b08-0f5e-426b-8b2c-1d193d97d774-1687982031288.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/masters/91250b08-0f5e-426b-8b2c-1d193d97d774-1688488257545.css" />\
       <div class="freeLayout">\
       <div id="Dynamic_Panel_45" class="dynamicpanel firer commentable non-processed" customid="Dropdown side menu with tree" datasizewidth="237.0px" datasizeheight="2200.0px" dataX="0.0" dataY="0.0" >\
         <div id="Panel_53" class="panel default firer commentable non-processed" customid="Expanded"  datasizewidth="237.0px" datasizeheight="2200.0px" >\
@@ -86,7 +86,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                       </div>\
                     </div>\
                   </div>\
-                </div><div id="Dynamic_Panel_18" class="dynamicpanel firer ie-background commentable non-processed" customid="Category 1" datasizewidth="239.0px" datasizeheight="517.0px" dataX="0.0" dataY="0.0" >\
+                </div><div id="Dynamic_Panel_18" class="dynamicpanel firer ie-background commentable non-processed" customid="Category 1" datasizewidth="239.0px" datasizeheight="553.0px" dataX="0.0" dataY="0.0" >\
                   <div id="Panel_59" class="panel hidden firer ie-background commentable non-processed" customid="Collapsed"  datasizewidth="239.0px" datasizeheight="56.0px" >\
                     <div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
@@ -188,7 +188,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                       </div>\
                     </div>\
                   </div>\
-                  <div id="Panel_60" class="panel default firer ie-background commentable non-processed" customid="Expanded"  datasizewidth="239.0px" datasizeheight="517.0px" >\
+                  <div id="Panel_60" class="panel default firer ie-background commentable non-processed" customid="Expanded"  datasizewidth="239.0px" datasizeheight="553.0px" >\
                     <div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
@@ -197,7 +197,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                     	<div class="layoutWrapper scrollable">\
                     	  <div class="paddingLayer">\
                           <div class="freeLayout">\
-                          <div id="Table_55" class="table firer ie-background commentable non-processed" customid="Table"  datasizewidth="239.0px" datasizeheight="505.9px" dataX="-0.1" dataY="0.0" originalwidth="239.0px" originalheight="505.9000000000001px" >\
+                          <div id="Table_55" class="table firer ie-background commentable non-processed" customid="Table"  datasizewidth="239.0px" datasizeheight="555.9px" dataX="-0.1" dataY="0.0" originalwidth="239.0px" originalheight="555.9000000000001px" >\
                             <div class="backgroundLayer">\
                               <div class="colorLayer"></div>\
                               <div class="imageLayer"></div>\
@@ -207,7 +207,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                                 <table summary="">\
                                   <tbody>\
                                     <tr>\
-                                      <td id="Cell_330" customid="Cell 1" class="cellcontainer firer mouseenter mouseleave ie-background non-processed"    datasizewidth="239.0px" datasizeheight="55.9px" dataX="0.0" dataY="0.0" originalwidth="239.0px" originalheight="55.90000000000002px" >\
+                                      <td id="Cell_330" customid="Cell 1" class="cellcontainer firer mouseenter mouseleave ie-background non-processed"    datasizewidth="239.0px" datasizeheight="55.9px" dataX="0.0" dataY="0.0" originalwidth="239.0px" originalheight="55.90000000000003px" >\
                                         <div class="cellContainerChild">\
                                           <div class="backgroundLayer">\
                                             <div class="colorLayer"></div>\
@@ -355,7 +355,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                                       </td>\
                                     </tr>\
                                     <tr>\
-                                      <td id="Cell_333" customid="Cell 3" class="cellcontainer firer mouseenter mouseleave ie-background non-processed"    datasizewidth="239.0px" datasizeheight="50.0px" dataX="0.0" dataY="11.0" originalwidth="239.0px" originalheight="49.99999999999999px" >\
+                                      <td id="Cell_38" customid="Cell 38" class="cellcontainer firer click ie-background non-processed"    datasizewidth="239.0px" datasizeheight="50.0px" dataX="0.0" dataY="20.9" originalwidth="239.0px" originalheight="49.99999999999999px" >\
                                         <div class="cellContainerChild">\
                                           <div class="backgroundLayer">\
                                             <div class="colorLayer"></div>\
@@ -367,7 +367,31 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                                                 <div class="left ghostHLayout">\
                                                 <table class="layout" summary="">\
                                                   <tr>\
-                                                    <td class="layout horizontal insertionpoint verticalalign Cell_333 Table_55" valign="middle" align="left" hSpacing="15" vSpacing="0"><div id="Paragraph_241" class="richtext manualfit firer click ie-background commentable non-processed" customid="Sin asignar"   datasizewidth="102.7px" datasizeheight="57.0px" dataX="0.0" dataY="0.0" >\
+                                                    <td class="layout horizontal insertionpoint verticalalign Cell_38 Table_55" valign="middle" align="left" hSpacing="15" vSpacing="0"></td> \
+                                                  </tr>\
+                                                </table>\
+                                                </div>\
+\
+                                              </div>\
+                                            </div>\
+                                          </div>\
+                                        </div>\
+                                      </td>\
+                                    </tr>\
+                                    <tr>\
+                                      <td id="Cell_333" customid="Cell 3" class="cellcontainer firer mouseenter mouseleave ie-background non-processed"    datasizewidth="239.0px" datasizeheight="50.0px" dataX="0.0" dataY="20.9" originalwidth="239.0px" originalheight="49.99999999999999px" >\
+                                        <div class="cellContainerChild">\
+                                          <div class="backgroundLayer">\
+                                            <div class="colorLayer"></div>\
+                                            <div class="imageLayer"></div>\
+                                          </div>\
+                                          <div class="borderLayer">\
+                                        	  <div class="layout scrollable">\
+                                        	    <div class="paddingLayer">\
+                                                <div class="left ghostHLayout">\
+                                                <table class="layout" summary="">\
+                                                  <tr>\
+                                                    <td class="layout horizontal insertionpoint verticalalign Cell_333 Table_55" valign="middle" align="left" hSpacing="15" vSpacing="0"><div id="Paragraph_8" class="richtext manualfit firer click ie-background commentable non-processed" customid="Sin asignar"   datasizewidth="102.7px" datasizeheight="57.0px" dataX="65.0" dataY="0.0" >\
                                                   <div class="backgroundLayer">\
                                                     <div class="colorLayer"></div>\
                                                     <div class="imageLayer"></div>\
@@ -376,7 +400,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                                                     <div class="paddingLayer">\
                                                       <div class="content">\
                                                         <div class="valign">\
-                                                          <span id="rtr-Paragraph_241_0">Sin asignar</span>\
+                                                          <span id="rtr-Paragraph_8_0">Sin asignar</span>\
                                                         </div>\
                                                       </div>\
                                                     </div>\
@@ -393,7 +417,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                                       </td>\
                                     </tr>\
                                     <tr>\
-                                      <td id="Cell_334" customid="Cell 4" class="cellcontainer firer mouseenter mouseleave ie-background non-processed"    datasizewidth="239.0px" datasizeheight="50.0px" dataX="0.0" dataY="11.0" originalwidth="239.0px" originalheight="49.99999999999999px" >\
+                                      <td id="Cell_334" customid="Cell 4" class="cellcontainer firer mouseenter mouseleave ie-background non-processed"    datasizewidth="239.0px" datasizeheight="50.0px" dataX="0.0" dataY="20.9" originalwidth="239.0px" originalheight="49.99999999999999px" >\
                                         <div class="cellContainerChild">\
                                           <div class="backgroundLayer">\
                                             <div class="colorLayer"></div>\
@@ -431,7 +455,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                                       </td>\
                                     </tr>\
                                     <tr>\
-                                      <td id="Cell_335" customid="Cell 5" class="cellcontainer firer mouseenter mouseleave ie-background non-processed"    datasizewidth="239.0px" datasizeheight="50.0px" dataX="0.0" dataY="11.0" originalwidth="239.0px" originalheight="50.00000000000001px" >\
+                                      <td id="Cell_335" customid="Cell 5" class="cellcontainer firer mouseenter mouseleave ie-background non-processed"    datasizewidth="239.0px" datasizeheight="50.0px" dataX="0.0" dataY="20.9" originalwidth="239.0px" originalheight="50.00000000000001px" >\
                                         <div class="cellContainerChild">\
                                           <div class="backgroundLayer">\
                                             <div class="colorLayer"></div>\
@@ -469,7 +493,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                                       </td>\
                                     </tr>\
                                     <tr>\
-                                      <td id="Cell_336" customid="Cell 1" class="cellcontainer firer mouseenter mouseleave ie-background non-processed"    datasizewidth="239.0px" datasizeheight="50.0px" dataX="0.0" dataY="11.0" originalwidth="239.0px" originalheight="50.00000000000002px" >\
+                                      <td id="Cell_336" customid="Cell 1" class="cellcontainer firer click ie-background non-processed"    datasizewidth="239.0px" datasizeheight="50.0px" dataX="0.0" dataY="20.9" originalwidth="239.0px" originalheight="50.00000000000002px" >\
                                         <div class="cellContainerChild">\
                                           <div class="backgroundLayer">\
                                             <div class="colorLayer"></div>\
@@ -507,7 +531,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                                       </td>\
                                     </tr>\
                                     <tr>\
-                                      <td id="Cell_337" customid="Cell 4" class="cellcontainer firer mouseenter mouseleave ie-background non-processed"    datasizewidth="239.0px" datasizeheight="50.0px" dataX="0.0" dataY="11.0" originalwidth="239.0px" originalheight="50.00000000000002px" >\
+                                      <td id="Cell_337" customid="Cell 4" class="cellcontainer firer mouseenter mouseleave ie-background non-processed"    datasizewidth="239.0px" datasizeheight="50.0px" dataX="0.0" dataY="20.9" originalwidth="239.0px" originalheight="50.00000000000002px" >\
                                         <div class="cellContainerChild">\
                                           <div class="backgroundLayer">\
                                             <div class="colorLayer"></div>\
@@ -545,7 +569,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                                       </td>\
                                     </tr>\
                                     <tr>\
-                                      <td id="Cell_40" customid="Cell 40" class="cellcontainer firer ie-background non-processed"    datasizewidth="239.0px" datasizeheight="50.0px" dataX="0.0" dataY="11.0" originalwidth="239.0px" originalheight="50.00000000000002px" >\
+                                      <td id="Cell_40" customid="Cell 40" class="cellcontainer firer click ie-background non-processed"    datasizewidth="239.0px" datasizeheight="50.0px" dataX="0.0" dataY="20.9" originalwidth="239.0px" originalheight="50.00000000000002px" >\
                                         <div class="cellContainerChild">\
                                           <div class="backgroundLayer">\
                                             <div class="colorLayer"></div>\
@@ -583,7 +607,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                                       </td>\
                                     </tr>\
                                     <tr>\
-                                      <td id="Cell_41" customid="Cell 41" class="cellcontainer firer ie-background non-processed"    datasizewidth="239.0px" datasizeheight="50.0px" dataX="0.0" dataY="11.0" originalwidth="239.0px" originalheight="50.00000000000002px" >\
+                                      <td id="Cell_41" customid="Cell 41" class="cellcontainer firer ie-background non-processed"    datasizewidth="239.0px" datasizeheight="50.0px" dataX="0.0" dataY="29.8" originalwidth="239.0px" originalheight="50.00000000000002px" >\
                                         <div class="cellContainerChild">\
                                           <div class="backgroundLayer">\
                                             <div class="colorLayer"></div>\
@@ -631,7 +655,248 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                       </div>\
                     </div>\
                   </div>\
-                </div><div id="Dynamic_Panel_35" class="dynamicpanel firer ie-background commentable non-processed" customid="Category 2" datasizewidth="239.0px" datasizeheight="274.0px" dataX="0.0" dataY="0.0" >\
+                </div><div id="Dynamic_Panel_2" class="dynamicpanel firer ie-background commentable non-processed" customid="Category 2" datasizewidth="239.0px" datasizeheight="106.0px" dataX="-0.0" dataY="0.0" >\
+                  <div id="Panel_2" class="panel hidden firer ie-background commentable non-processed" customid="Collapsed"  datasizewidth="239.0px" datasizeheight="56.0px" >\
+                    <div class="backgroundLayer">\
+                      <div class="colorLayer"></div>\
+                      <div class="imageLayer"></div>\
+                    </div>\
+                    <div class="borderLayer">\
+                    	<div class="layoutWrapper scrollable">\
+                    	  <div class="paddingLayer">\
+                          <div class="freeLayout">\
+                          <div id="Table_1" class="table firer ie-background commentable non-processed" customid="Table"  datasizewidth="239.0px" datasizeheight="56.0px" dataX="-1.0" dataY="-0.0" originalwidth="239.0px" originalheight="56.0px" >\
+                            <div class="backgroundLayer">\
+                              <div class="colorLayer"></div>\
+                              <div class="imageLayer"></div>\
+                            </div>\
+                            <div class="borderLayer">\
+                              <div class="paddingLayer">\
+                                <table summary="">\
+                                  <tbody>\
+                                    <tr>\
+                                      <td id="Cell_35" customid="Cell" class="cellcontainer firer mouseenter mouseleave ie-background non-processed"    datasizewidth="239.0px" datasizeheight="56.0px" dataX="0.0" dataY="0.0" originalwidth="239.0px" originalheight="55.999999999999915px" >\
+                                        <div class="cellContainerChild">\
+                                          <div class="backgroundLayer">\
+                                            <div class="colorLayer"></div>\
+                                            <div class="imageLayer"></div>\
+                                          </div>\
+                                          <div class="borderLayer">\
+                                        	  <div class="layout scrollable">\
+                                        	    <div class="paddingLayer">\
+                                                <div class="left ghostHLayout">\
+                                                <table class="layout" summary="">\
+                                                  <tr>\
+                                                    <td class="layout horizontal insertionpoint verticalalign Cell_35 Table_1" valign="middle" align="left" hSpacing="20" vSpacing="0"><div id="Path_1" class="path firer commentable non-processed" customid="trash-icon"   datasizewidth="14.0px" datasizeheight="18.0px" dataX="30.0" dataY="0.0"  >\
+                                                  <div class="borderLayer">\
+                                                  	<div class="imageViewport">\
+                                                    	<?xml version="1.0" encoding="UTF-8"?>\
+                                                    	<svg xmlns="http://www.w3.org/2000/svg" width="14.0" height="18.0" viewBox="30.0 0.0 14.0 18.0" preserveAspectRatio="none">\
+                                                    	  <g>\
+                                                    	    <defs>\
+                                                    	      <path id="m-Path_1-91250" d="M41.0 6.0 L41.0 16.0 L33.0 16.0 L33.0 6.0 L41.0 6.0 M39.5 0.0 L34.5 0.0 L33.5 1.0 L30.0 1.0 L30.0 3.0 L44.0 3.0 L44.0 1.0 L40.5 1.0 L39.5 0.0 Z M43.0 4.0 L31.0 4.0 L31.0 16.0 C31.0 17.100000023841858 31.899999976158142 18.0 33.0 18.0 L41.0 18.0 C42.10000002384186 18.0 43.0 17.100000023841858 43.0 16.0 L43.0 4.0 Z "></path>\
+                                                    	    </defs>\
+                                                    	    <g style="mix-blend-mode:normal">\
+                                                    	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#m-Path_1-91250" fill="#313033" fill-opacity="1.0"></use>\
+                                                    	    </g>\
+                                                    	  </g>\
+                                                    	</svg>\
+\
+                                                    </div>\
+                                                  </div>\
+                                                </div><div id="Paragraph_2" class="richtext autofit firer click ie-background commentable non-processed" customid="Category 2"   datasizewidth="73.4px" datasizeheight="19.0px" dataX="0.0" dataY="0.0" >\
+                                                  <div class="backgroundLayer">\
+                                                    <div class="colorLayer"></div>\
+                                                    <div class="imageLayer"></div>\
+                                                  </div>\
+                                                  <div class="borderLayer">\
+                                                    <div class="paddingLayer">\
+                                                      <div class="content">\
+                                                        <div class="valign">\
+                                                          <span id="rtr-Paragraph_2_0">Category 2</span>\
+                                                        </div>\
+                                                      </div>\
+                                                    </div>\
+                                                  </div>\
+                                                </div><div id="Path_2" class="path firer click commentable non-processed" customid="Arrow"   datasizewidth="5.0px" datasizeheight="8.8px" dataX="33.0" dataY="45.0"  >\
+                                                  <div class="borderLayer">\
+                                                  	<div class="imageViewport">\
+                                                    	<?xml version="1.0" encoding="UTF-8"?>\
+                                                    	<svg xmlns="http://www.w3.org/2000/svg" width="5.0" height="8.75" viewBox="33.0 45.0 5.0 8.75" preserveAspectRatio="none">\
+                                                    	  <g>\
+                                                    	    <defs>\
+                                                    	      <path id="m-Path_2-91250" d="M33.0 45.0 L33.0 53.75 L38.0 49.375 Z "></path>\
+                                                    	    </defs>\
+                                                    	    <g style="mix-blend-mode:normal">\
+                                                    	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#m-Path_2-91250" fill="#000000" fill-opacity="1.0"></use>\
+                                                    	    </g>\
+                                                    	  </g>\
+                                                    	</svg>\
+\
+                                                    </div>\
+                                                  </div>\
+                                                </div></td> \
+                                                  </tr>\
+                                                </table>\
+                                                </div>\
+\
+                                              </div>\
+                                            </div>\
+                                          </div>\
+                                        </div>\
+                                      </td>\
+                                    </tr>\
+                                  </tbody>\
+                                </table>\
+                              </div>\
+                            </div>\
+                          </div>\
+                          </div>\
+\
+                        </div>\
+                      </div>\
+                    </div>\
+                  </div>\
+                  <div id="Panel_3" class="panel default firer ie-background commentable non-processed" customid="Expanded"  datasizewidth="239.0px" datasizeheight="106.0px" >\
+                    <div class="backgroundLayer">\
+                      <div class="colorLayer"></div>\
+                      <div class="imageLayer"></div>\
+                    </div>\
+                    <div class="borderLayer">\
+                    	<div class="layoutWrapper scrollable">\
+                    	  <div class="paddingLayer">\
+                          <div class="freeLayout">\
+                          <div id="Table_2" class="table firer ie-background commentable non-processed" customid="Table"  datasizewidth="239.0px" datasizeheight="105.9px" dataX="-4.0" dataY="-0.0" originalwidth="239.0px" originalheight="105.9000000000001px" >\
+                            <div class="backgroundLayer">\
+                              <div class="colorLayer"></div>\
+                              <div class="imageLayer"></div>\
+                            </div>\
+                            <div class="borderLayer">\
+                              <div class="paddingLayer">\
+                                <table summary="">\
+                                  <tbody>\
+                                    <tr>\
+                                      <td id="Cell_36" customid="Cell 1" class="cellcontainer firer mouseenter mouseleave ie-background non-processed"    datasizewidth="239.0px" datasizeheight="55.9px" dataX="0.0" dataY="0.0" originalwidth="239.0px" originalheight="55.90000000000003px" >\
+                                        <div class="cellContainerChild">\
+                                          <div class="backgroundLayer">\
+                                            <div class="colorLayer"></div>\
+                                            <div class="imageLayer"></div>\
+                                          </div>\
+                                          <div class="borderLayer">\
+                                        	  <div class="layout scrollable">\
+                                        	    <div class="paddingLayer">\
+                                                <div class="left ghostHLayout">\
+                                                <table class="layout" summary="">\
+                                                  <tr>\
+                                                    <td class="layout horizontal insertionpoint verticalalign Cell_36 Table_2" valign="middle" align="left" hSpacing="18" vSpacing="0"><div id="Path_3" class="path firer click commentable non-processed" customid="trash-icon"   datasizewidth="14.0px" datasizeheight="18.0px" dataX="30.0" dataY="0.0"  >\
+                                                  <div class="borderLayer">\
+                                                  	<div class="imageViewport">\
+                                                    	<?xml version="1.0" encoding="UTF-8"?>\
+                                                    	<svg xmlns="http://www.w3.org/2000/svg" width="14.0" height="18.0" viewBox="30.0 0.0 14.0 18.0" preserveAspectRatio="none">\
+                                                    	  <g>\
+                                                    	    <defs>\
+                                                    	      <path id="m-Path_3-91250" d="M41.0 6.0 L41.0 16.0 L33.0 16.0 L33.0 6.0 L41.0 6.0 M39.5 0.0 L34.5 0.0 L33.5 1.0 L30.0 1.0 L30.0 3.0 L44.0 3.0 L44.0 1.0 L40.5 1.0 L39.5 0.0 Z M43.0 4.0 L31.0 4.0 L31.0 16.0 C31.0 17.100000023841858 31.899999976158142 18.0 33.0 18.0 L41.0 18.0 C42.10000002384186 18.0 43.0 17.100000023841858 43.0 16.0 L43.0 4.0 Z "></path>\
+                                                    	    </defs>\
+                                                    	    <g style="mix-blend-mode:normal">\
+                                                    	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#m-Path_3-91250" fill="#313033" fill-opacity="1.0"></use>\
+                                                    	    </g>\
+                                                    	  </g>\
+                                                    	</svg>\
+\
+                                                    </div>\
+                                                  </div>\
+                                                </div><div id="Paragraph_6" class="richtext autofit firer click ie-background commentable non-processed" customid="Viajes"   datasizewidth="43.4px" datasizeheight="17.0px" dataX="0.0" dataY="25.5" >\
+                                                  <div class="backgroundLayer">\
+                                                    <div class="colorLayer"></div>\
+                                                    <div class="imageLayer"></div>\
+                                                  </div>\
+                                                  <div class="borderLayer">\
+                                                    <div class="paddingLayer">\
+                                                      <div class="content">\
+                                                        <div class="valign">\
+                                                          <span id="rtr-Paragraph_6_0">Viajes</span>\
+                                                        </div>\
+                                                      </div>\
+                                                    </div>\
+                                                  </div>\
+                                                </div><div id="Path_4" class="path firer click commentable non-processed" customid="Arrow"   datasizewidth="5.0px" datasizeheight="8.8px" dataX="3.5" dataY="14.5"  >\
+                                                  <div class="borderLayer">\
+                                                  	<div class="imageViewport">\
+                                                    	<?xml version="1.0" encoding="UTF-8"?>\
+                                                    	<svg xmlns="http://www.w3.org/2000/svg" width="5.0" height="8.75" viewBox="3.5 14.5 5.0 8.75" preserveAspectRatio="none">\
+                                                    	  <g>\
+                                                    	    <defs>\
+                                                    	      <path id="m-Path_4-91250" d="M3.5 14.5 L3.5 23.25 L8.5 18.875 Z "></path>\
+                                                    	    </defs>\
+                                                    	    <g transform="rotate(90.0 6.0 18.875)" style="mix-blend-mode:normal">\
+                                                    	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#m-Path_4-91250" fill="#000000" fill-opacity="1.0"></use>\
+                                                    	    </g>\
+                                                    	  </g>\
+                                                    	</svg>\
+\
+                                                    </div>\
+                                                  </div>\
+                                                </div></td> \
+                                                  </tr>\
+                                                </table>\
+                                                </div>\
+\
+                                              </div>\
+                                            </div>\
+                                          </div>\
+                                        </div>\
+                                      </td>\
+                                    </tr>\
+                                    <tr>\
+                                      <td id="Cell_37" customid="Cell 42" class="cellcontainer firer click ie-background non-processed"    datasizewidth="239.0px" datasizeheight="50.0px" dataX="0.0" dataY="24.3" originalwidth="239.0px" originalheight="49.999999999999986px" >\
+                                        <div class="cellContainerChild">\
+                                          <div class="backgroundLayer">\
+                                            <div class="colorLayer"></div>\
+                                            <div class="imageLayer"></div>\
+                                          </div>\
+                                          <div class="borderLayer">\
+                                        	  <div class="layout scrollable">\
+                                        	    <div class="paddingLayer">\
+                                                <div class="left ghostHLayout">\
+                                                <table class="layout" summary="">\
+                                                  <tr>\
+                                                    <td class="layout horizontal insertionpoint verticalalign Cell_37 Table_2" valign="middle" align="left" hSpacing="15" vSpacing="0"><div id="Paragraph_7" class="richtext manualfit firer click ie-background commentable non-processed" customid="Lista de Viajes"   datasizewidth="112.2px" datasizeheight="34.0px" dataX="0.0" dataY="-0.0" >\
+                                                  <div class="backgroundLayer">\
+                                                    <div class="colorLayer"></div>\
+                                                    <div class="imageLayer"></div>\
+                                                  </div>\
+                                                  <div class="borderLayer">\
+                                                    <div class="paddingLayer">\
+                                                      <div class="content">\
+                                                        <div class="valign">\
+                                                          <span id="rtr-Paragraph_7_0">Lista de Viajes </span>\
+                                                        </div>\
+                                                      </div>\
+                                                    </div>\
+                                                  </div>\
+                                                </div></td> \
+                                                  </tr>\
+                                                </table>\
+                                                </div>\
+\
+                                              </div>\
+                                            </div>\
+                                          </div>\
+                                        </div>\
+                                      </td>\
+                                    </tr>\
+                                  </tbody>\
+                                </table>\
+                              </div>\
+                            </div>\
+                          </div>\
+                          </div>\
+\
+                        </div>\
+                      </div>\
+                    </div>\
+                  </div>\
+                </div><div id="Dynamic_Panel_35" class="dynamicpanel firer ie-background commentable non-processed" customid="Category 2" datasizewidth="239.0px" datasizeheight="255.0px" dataX="-0.0" dataY="-0.0" >\
                   <div id="Panel_61" class="panel hidden firer ie-background commentable non-processed" customid="Collapsed"  datasizewidth="239.0px" datasizeheight="56.0px" >\
                     <div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
@@ -733,7 +998,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                       </div>\
                     </div>\
                   </div>\
-                  <div id="Panel_62" class="panel default firer ie-background commentable non-processed" customid="Expanded"  datasizewidth="239.0px" datasizeheight="274.0px" >\
+                  <div id="Panel_62" class="panel default firer ie-background commentable non-processed" customid="Expanded"  datasizewidth="239.0px" datasizeheight="255.0px" >\
                     <div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
@@ -986,7 +1251,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                       </div>\
                     </div>\
                   </div>\
-                </div><div id="Dynamic_Panel_36" class="dynamicpanel firer ie-background commentable non-processed" customid="Category 3" datasizewidth="239.0px" datasizeheight="162.0px" dataX="0.0" dataY="0.0" >\
+                </div><div id="Dynamic_Panel_36" class="dynamicpanel firer ie-background commentable non-processed" customid="Category 3" datasizewidth="239.0px" datasizeheight="154.0px" dataX="0.0" dataY="0.0" >\
                   <div id="Panel_63" class="panel hidden firer click ie-background commentable non-processed" customid="Collapsed"  datasizewidth="239.0px" datasizeheight="56.0px" >\
                     <div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
@@ -1088,7 +1353,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                       </div>\
                     </div>\
                   </div>\
-                  <div id="Panel_64" class="panel default firer click ie-background commentable non-processed" customid="Expanded"  datasizewidth="239.0px" datasizeheight="162.0px" >\
+                  <div id="Panel_64" class="panel default firer click ie-background commentable non-processed" customid="Expanded"  datasizewidth="239.0px" datasizeheight="154.0px" >\
                     <div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
@@ -2121,6 +2386,21 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                   </tr>\
                 </table>\
 \
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="Paragraph_241" class="richtext manualfit firer click ie-background commentable non-processed" customid="En borrador"   datasizewidth="102.7px" datasizeheight="25.0px" dataX="67.0" dataY="225.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-Paragraph_241_0">En borrador</span>\
               </div>\
             </div>\
           </div>\

@@ -8712,10 +8712,7 @@ Tween.prototype = {
       hooks = Tween.propHooks[ this.prop ];
 
     this.pos = eased = jQuery.easing[ this.easing ]( percent, this.options.duration * percent, 0, 1, this.options.duration );
-    //JIM FIX: if a value is not animatable, don't botch it.
-    var isNaNValue = isNaN(this.end - this.start);
-    this.now = isNaNValue ? this.end : ( this.end - this.start ) * eased + this.start;
-    this.unit = isNaNValue ? "" : this.unit;
+    this.now = ( this.end - this.start ) * eased + this.start;
 
     if ( this.options.step ) {
       this.options.step.call( this.elem, this.now, this );

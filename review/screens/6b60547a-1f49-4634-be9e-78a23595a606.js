@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1687982031288.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1688488257545.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="s-6b60547a-1f49-4634-be9e-78a23595a606" class="screen growth-vertical devWeb canvas PORTRAIT firer commentable non-processed" alignment="left" name="Contactos Crear" width="1038" height="813">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/6b60547a-1f49-4634-be9e-78a23595a606-1687982031288.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/6b60547a-1f49-4634-be9e-78a23595a606-1688488257545.css" />\
       <div class="freeLayout">\
       <div id="s-Paragraph_1" class="richtext manualfit firer ie-background commentable non-processed" customid="Crear contacto para Carlo"   datasizewidth="653.0px" datasizeheight="96.0px" dataX="181.5" dataY="230.0" >\
         <div class="backgroundLayer">\
