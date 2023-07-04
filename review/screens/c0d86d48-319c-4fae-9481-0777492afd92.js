@@ -1,25 +1,25 @@
-var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWidth="1366" deviceHeight="768">\
+var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWidth="1546" deviceHeight="725">\
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1688488257545.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1688506419889.css" />\
       <div class="freeLayout">\
       </div>\
 \
       </div>\
       <div id="loadMark"></div>\
     </div>\
-    <div id="s-c0d86d48-319c-4fae-9481-0777492afd92" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Ordenes Sin asignar" width="1366" height="768">\
+    <div id="s-c0d86d48-319c-4fae-9481-0777492afd92" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Ordenes Sin asignar" width="1546" height="725">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/c0d86d48-319c-4fae-9481-0777492afd92-1688488257545.css" />\
-      <link type="text/css" rel="stylesheet" href="./resources/masters/91250b08-0f5e-426b-8b2c-1d193d97d774-1688488257545.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/c0d86d48-319c-4fae-9481-0777492afd92-1688506419889.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/masters/91250b08-0f5e-426b-8b2c-1d193d97d774-1688506419889.css" />\
       <div class="freeLayout">\
-      <div id="s-Input_1" class="text firer commentable non-processed" customid="Input"  datasizewidth="923.0px" datasizeheight="41.9px" dataX="356.0" dataY="273.5" ><div class="backgroundLayer">\
+      <div id="s-Input_1" class="text firer commentable non-processed" customid="Input"  datasizewidth="1105.1px" datasizeheight="41.9px" dataX="356.0" dataY="273.5" ><div class="backgroundLayer">\
         <div class="colorLayer"></div>\
         <div class="imageLayer"></div>\
       </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="Buscar"/></div></div>  </div></div></div>\
-      <div id="s-Paragraph_21" class="richtext autofit firer ie-background commentable non-processed" customid="&Oacute;rdenes sin asignar"   datasizewidth="230.8px" datasizeheight="27.0px" dataX="702.1" dataY="201.0" >\
+      <div id="s-Paragraph_21" class="richtext autofit firer ie-background commentable non-processed" customid="&Oacute;rdenes sin asignar"   datasizewidth="230.8px" datasizeheight="27.0px" dataX="817.0" dataY="225.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -34,7 +34,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Table_1" class="table firer commentable non-processed" customid="Table 1"  datasizewidth="922.9px" datasizeheight="159.7px" dataX="356.0" dataY="346.3" originalwidth="921.8888888888889px" originalheight="158.66666666666663px" >\
+      <div id="s-Table_1" class="table firer commentable non-processed" customid="Table 1"  datasizewidth="1105.1px" datasizeheight="159.7px" dataX="356.0" dataY="346.3" originalwidth="1104.111111111111px" originalheight="158.66666666666663px" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -60,27 +60,35 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
                   </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_48_0">Cliente </span></div></div></div></div></div></div>  </td>\
-                  <td id="s-Text_cell_49" class="textcell manualfit firer ie-background non-processed" customid="Fecha de Recepci&oacute;n"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                  <td id="s-Text_cell_62" class="textcell manualfit firer ie-background non-processed" customid="Operador"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <div class="colorLayer"></div>\
+                    <div class="imageLayer"></div>\
+                  </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_62_0">Operador</span></div></div></div></div></div></div>  </td>\
+                  <td id="s-Text_cell_75" class="textcell manualfit firer ie-background non-processed" customid="Unidad"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <div class="colorLayer"></div>\
+                    <div class="imageLayer"></div>\
+                  </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_75_0">Unidad</span></div></div></div></div></div></div>  </td>\
+                  <td id="s-Text_cell_49" class="textcell manualfit firer ie-background non-processed" customid="Fecha de Recepci&oacute;n"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="18.9" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
                   </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_49_0">Fecha de Recepci&oacute;n</span></div></div></div></div></div></div>  </td>\
-                  <td id="s-Text_cell_52" class="textcell manualfit firer ie-background non-processed" customid="Tipo de Servicio"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                  <td id="s-Text_cell_52" class="textcell manualfit firer ie-background non-processed" customid="Tipo de Servicio"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="18.9" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
                   </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_52_0">Tipo de Servicio</span></div></div></div></div></div></div>  </td>\
-                  <td id="s-Text_cell_54" class="textcell manualfit firer ie-background non-processed" customid="Paquetes"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                  <td id="s-Text_cell_54" class="textcell manualfit firer ie-background non-processed" customid="Paquetes"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="18.9" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
                   </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_54_0">Paquetes</span></div></div></div></div></div></div>  </td>\
-                  <td id="s-Text_cell_41" class="textcell manualfit firer ie-background non-processed" customid="Viaje"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                  <td id="s-Text_cell_41" class="textcell manualfit firer ie-background non-processed" customid="Viaje"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="18.9" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
                   </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_41_0">Viaje</span></div></div></div></div></div></div>  </td>\
-                  <td id="s-Text_cell_55" class="textcell manualfit firer ie-background non-processed" customid="Asignar"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="11.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                  <td id="s-Text_cell_55" class="textcell manualfit firer ie-background non-processed" customid="Asignar"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="29.8" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
                   </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_55_0">Asignar</span></div></div></div></div></div></div>  </td>\
-                  <td id="s-Text_cell_42" class="textcell manualfit firer ie-background non-processed" customid="Reasignar"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="11.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                  <td id="s-Text_cell_42" class="textcell manualfit firer ie-background non-processed" customid="Reasignar"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="29.8" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
                   </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_42_0">Reasignar</span></div></div></div></div></div></div>  </td>\
@@ -102,27 +110,35 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
                   </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_59_0">Verizon</span></div></div></div></div></div></div>  </td>\
-                  <td id="s-Text_cell_60" class="textcell manualfit firer ie-background non-processed" customid="05/05/2023"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                  <td id="s-Text_cell_64" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <div class="colorLayer"></div>\
+                    <div class="imageLayer"></div>\
+                  </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_64_0"></span></div></div></div></div></div></div>  </td>\
+                  <td id="s-Text_cell_83" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <div class="colorLayer"></div>\
+                    <div class="imageLayer"></div>\
+                  </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_83_0"></span></div></div></div></div></div></div>  </td>\
+                  <td id="s-Text_cell_60" class="textcell manualfit firer ie-background non-processed" customid="05/05/2023"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="18.9" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
                   </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_60_0">05/05/2023</span></div></div></div></div></div></div>  </td>\
-                  <td id="s-Text_cell_63" class="textcell manualfit firer ie-background non-processed" customid="Econ&oacute;mico"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                  <td id="s-Text_cell_63" class="textcell manualfit firer ie-background non-processed" customid="Econ&oacute;mico"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="18.9" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
                   </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_63_0">Econ&oacute;mico</span></div></div></div></div></div></div>  </td>\
-                  <td id="s-Text_cell_65" class="textcell manualfit firer ie-background non-processed" customid="23"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                  <td id="s-Text_cell_65" class="textcell manualfit firer ie-background non-processed" customid="23"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="18.9" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
                   </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_65_0">23</span></div></div></div></div></div></div>  </td>\
-                  <td id="s-Text_cell_43" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                  <td id="s-Text_cell_43" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="18.9" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
                   </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_43_0"></span></div></div></div></div></div></div>  </td>\
-                  <td id="s-Text_cell_66" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="11.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                  <td id="s-Text_cell_66" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="29.8" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
                   </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_66_0"></span></div></div></div></div></div></div>  </td>\
-                  <td id="s-Text_cell_44" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="11.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                  <td id="s-Text_cell_44" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="29.8" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
                   </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_44_0"></span></div></div></div></div></div></div>  </td>\
@@ -144,27 +160,35 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
                   </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_70_0">Construcciones</span></div></div></div></div></div></div>  </td>\
-                  <td id="s-Text_cell_71" class="textcell manualfit firer ie-background non-processed" customid="05/05/2023"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                  <td id="s-Text_cell_72" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <div class="colorLayer"></div>\
+                    <div class="imageLayer"></div>\
+                  </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_72_0"></span></div></div></div></div></div></div>  </td>\
+                  <td id="s-Text_cell_84" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <div class="colorLayer"></div>\
+                    <div class="imageLayer"></div>\
+                  </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_84_0"></span></div></div></div></div></div></div>  </td>\
+                  <td id="s-Text_cell_71" class="textcell manualfit firer ie-background non-processed" customid="05/05/2023"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="18.9" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
                   </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_71_0">05/05/2023</span></div></div></div></div></div></div>  </td>\
-                  <td id="s-Text_cell_74" class="textcell manualfit firer ie-background non-processed" customid="Plus"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                  <td id="s-Text_cell_74" class="textcell manualfit firer ie-background non-processed" customid="Plus"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="18.9" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
                   </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_74_0">Plus</span></div></div></div></div></div></div>  </td>\
-                  <td id="s-Text_cell_76" class="textcell manualfit firer ie-background non-processed" customid="10"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                  <td id="s-Text_cell_76" class="textcell manualfit firer ie-background non-processed" customid="10"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="18.9" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
                   </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_76_0">10</span></div></div></div></div></div></div>  </td>\
-                  <td id="s-Text_cell_50" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                  <td id="s-Text_cell_50" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="18.9" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
                   </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_50_0"></span></div></div></div></div></div></div>  </td>\
-                  <td id="s-Text_cell_77" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="11.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                  <td id="s-Text_cell_77" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="29.8" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
                   </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_77_0"></span></div></div></div></div></div></div>  </td>\
-                  <td id="s-Text_cell_51" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="11.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                  <td id="s-Text_cell_51" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="29.8" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
                   </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_51_0"></span></div></div></div></div></div></div>  </td>\
@@ -186,27 +210,35 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
                   </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_81_0">Empresarial</span></div></div></div></div></div></div>  </td>\
-                  <td id="s-Text_cell_82" class="textcell manualfit firer ie-background non-processed" customid="05/05/2023"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                  <td id="s-Text_cell_73" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <div class="colorLayer"></div>\
+                    <div class="imageLayer"></div>\
+                  </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_73_0"></span></div></div></div></div></div></div>  </td>\
+                  <td id="s-Text_cell_86" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <div class="colorLayer"></div>\
+                    <div class="imageLayer"></div>\
+                  </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_86_0"></span></div></div></div></div></div></div>  </td>\
+                  <td id="s-Text_cell_82" class="textcell manualfit firer ie-background non-processed" customid="05/05/2023"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="18.9" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
                   </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_82_0">05/05/2023</span></div></div></div></div></div></div>  </td>\
-                  <td id="s-Text_cell_85" class="textcell manualfit firer ie-background non-processed" customid="Plus"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                  <td id="s-Text_cell_85" class="textcell manualfit firer ie-background non-processed" customid="Plus"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="18.9" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
                   </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_85_0">Plus</span></div></div></div></div></div></div>  </td>\
-                  <td id="s-Text_cell_87" class="textcell manualfit firer ie-background non-processed" customid="10"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                  <td id="s-Text_cell_87" class="textcell manualfit firer ie-background non-processed" customid="10"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="18.9" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
                   </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_87_0">10</span></div></div></div></div></div></div>  </td>\
-                  <td id="s-Text_cell_53" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                  <td id="s-Text_cell_53" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="18.9" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
                   </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_53_0"></span></div></div></div></div></div></div>  </td>\
-                  <td id="s-Text_cell_88" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="11.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                  <td id="s-Text_cell_88" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="29.8" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
                   </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_88_0"></span></div></div></div></div></div></div>  </td>\
-                  <td id="s-Text_cell_61" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="11.0" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                  <td id="s-Text_cell_61" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="29.8" dataY="0.0" originalwidth="91.1111111111111px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
                   </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_61_0"></span></div></div></div></div></div></div>  </td>\
@@ -2735,7 +2767,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
         </div>\
       </div>\
 \
-      <div id="s-Image_4" class="image firer ie-background commentable hidden non-processed" customid="Image"   datasizewidth="34.0px" datasizeheight="28.0px" dataX="1217.0" dataY="472.0"   alt="image">\
+      <div id="s-Image_4" class="image firer ie-background commentable hidden non-processed" customid="Image"   datasizewidth="34.0px" datasizeheight="28.0px" dataX="1395.0" dataY="472.0"   alt="image">\
         <div class="borderLayer">\
         	<div class="imageViewport">\
         		<img src="./images/709c2da2-dbf7-4593-8ce1-c08248577c34.png" />\
@@ -2744,7 +2776,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
       </div>\
 \
 \
-      <div id="s-Image_8" class="image firer click ie-background commentable non-processed" customid="Image"   datasizewidth="34.0px" datasizeheight="28.0px" dataX="1127.5" dataY="392.2"   alt="image">\
+      <div id="s-Image_8" class="image firer click ie-background commentable non-processed" customid="Image"   datasizewidth="34.0px" datasizeheight="28.0px" dataX="1309.5" dataY="392.2"   alt="image">\
         <div class="borderLayer">\
         	<div class="imageViewport">\
         		<img src="./images/709c2da2-dbf7-4593-8ce1-c08248577c34.png" />\
@@ -2753,7 +2785,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
       </div>\
 \
 \
-      <div id="s-Image_5" class="image firer ie-background commentable hidden non-processed" customid="Image"   datasizewidth="34.0px" datasizeheight="28.0px" dataX="1217.0" dataY="431.0"   alt="image">\
+      <div id="s-Image_5" class="image firer ie-background commentable hidden non-processed" customid="Image"   datasizewidth="34.0px" datasizeheight="28.0px" dataX="1395.0" dataY="431.0"   alt="image">\
         <div class="borderLayer">\
         	<div class="imageViewport">\
         		<img src="./images/709c2da2-dbf7-4593-8ce1-c08248577c34.png" />\
@@ -2762,7 +2794,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
       </div>\
 \
 \
-      <div id="s-Image_7" class="image firer click ie-background commentable hidden non-processed" customid="Image"   datasizewidth="34.0px" datasizeheight="28.0px" dataX="1217.0" dataY="392.2"   alt="image">\
+      <div id="s-Image_7" class="image firer click ie-background commentable hidden non-processed" customid="Image"   datasizewidth="34.0px" datasizeheight="28.0px" dataX="1395.0" dataY="392.2"   alt="image">\
         <div class="borderLayer">\
         	<div class="imageViewport">\
         		<img src="./images/709c2da2-dbf7-4593-8ce1-c08248577c34.png" />\
@@ -2771,7 +2803,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
       </div>\
 \
 \
-      <div id="s-Image_9" class="image firer click ie-background commentable non-processed" customid="Image"   datasizewidth="34.0px" datasizeheight="28.0px" dataX="1127.5" dataY="431.0"   alt="image">\
+      <div id="s-Image_9" class="image firer click ie-background commentable non-processed" customid="Image"   datasizewidth="34.0px" datasizeheight="28.0px" dataX="1309.5" dataY="434.2"   alt="image">\
         <div class="borderLayer">\
         	<div class="imageViewport">\
         		<img src="./images/709c2da2-dbf7-4593-8ce1-c08248577c34.png" />\
@@ -2780,7 +2812,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
       </div>\
 \
 \
-      <div id="s-Image_10" class="image firer click ie-background commentable non-processed" customid="Image"   datasizewidth="34.0px" datasizeheight="28.0px" dataX="1127.5" dataY="472.0"   alt="image">\
+      <div id="s-Image_10" class="image firer click ie-background commentable non-processed" customid="Image"   datasizewidth="34.0px" datasizeheight="28.0px" dataX="1312.0" dataY="472.0"   alt="image">\
         <div class="borderLayer">\
         	<div class="imageViewport">\
         		<img src="./images/709c2da2-dbf7-4593-8ce1-c08248577c34.png" />\
@@ -2789,7 +2821,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
       </div>\
 \
 \
-      <div id="s-Image_6" class="image firer click ie-background commentable hidden non-processed" customid="Image"   datasizewidth="34.0px" datasizeheight="28.0px" dataX="1127.5" dataY="433.0"   alt="image">\
+      <div id="s-Image_6" class="image firer click ie-background commentable hidden non-processed" customid="Image"   datasizewidth="34.0px" datasizeheight="28.0px" dataX="1309.5" dataY="434.0"   alt="image">\
         <div class="borderLayer">\
         	<div class="imageViewport">\
         		<img src="./images/ce402a4d-1f39-444c-9b43-3ef2e9a71017.png" />\
@@ -2798,7 +2830,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
       </div>\
 \
 \
-      <div id="s-Image_11" class="image firer click ie-background commentable hidden non-processed" customid="Image"   datasizewidth="34.0px" datasizeheight="28.0px" dataX="1127.5" dataY="392.2"   alt="image">\
+      <div id="s-Image_11" class="image firer click ie-background commentable hidden non-processed" customid="Image"   datasizewidth="34.0px" datasizeheight="28.0px" dataX="1309.5" dataY="392.2"   alt="image">\
         <div class="borderLayer">\
         	<div class="imageViewport">\
         		<img src="./images/473a7055-84fd-4ecb-851d-fc7b2a968c81.png" />\
@@ -2867,7 +2899,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
 \
       </div>\
 \
-      <div id="s-Paragraph_16" class="richtext autofit firer ie-background commentable hidden non-processed" customid="001"   datasizewidth="30.0px" datasizeheight="20.0px" dataX="1037.0" dataY="396.2" >\
+      <div id="s-Paragraph_16" class="richtext autofit firer ie-background commentable hidden non-processed" customid="Paragraph"   datasizewidth="1.0px" datasizeheight="1.0px" dataX="1218.5" dataY="480.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -2876,364 +2908,12 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           <div class="paddingLayer">\
             <div class="content">\
               <div class="valign">\
-                <span id="rtr-s-Paragraph_16_0">001</span>\
+                <span id="rtr-s-Paragraph_16_0"></span>\
               </div>\
             </div>\
           </div>\
         </div>\
       </div>\
-\
-      <div id="s-Group_2" class="group firer ie-background commentable hidden non-processed" customid="Group 1" datasizewidth="0.0px" datasizeheight="0.0px" >\
-        <div id="s-Rectangle_1" class="rectangle manualfit firer commentable non-processed" customid="Rectangle 1"   datasizewidth="375.0px" datasizeheight="426.0px" datasizewidthpx="375.0" datasizeheightpx="426.0000000000003" dataX="634.0" dataY="234.0" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Rectangle_1_0"></span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-        <div id="s-Paragraph_2" class="richtext manualfit firer ie-background commentable non-processed" customid="Unidad"   datasizewidth="113.7px" datasizeheight="25.0px" dataX="663.0" dataY="348.0" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Paragraph_2_0">Unidad </span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-        <div id="s-Paragraph_6" class="richtext manualfit firer ie-background commentable non-processed" customid="Operador"   datasizewidth="113.7px" datasizeheight="25.0px" dataX="663.0" dataY="460.0" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Paragraph_6_0">Operador </span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-        <div id="s-Button_1" class="button multiline manualfit firer click commentable non-processed" customid="Cancelar"   datasizewidth="136.0px" datasizeheight="36.0px" dataX="662.9" dataY="578.8" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Button_1_0">Cancelar </span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-        <div id="s-Button_2" class="button multiline manualfit firer click commentable non-processed" customid="Aceptar"   datasizewidth="131.0px" datasizeheight="35.6px" dataX="831.9" dataY="579.0" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Button_2_0">Aceptar</span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-        <div id="s-Category_1" class="dropdown firer commentable non-processed" customid="Category 1"    datasizewidth="300.0px" datasizeheight="45.0px" dataX="663.0" dataY="384.0"  tabindex="-1"><div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div><div class="borderLayer"><div class="paddingLayer"><div class="content icon"><div class="valign"><div class="value">ABC-0011</div></div></div></div></div><select id="s-Category_1-options" class="s-c0d86d48-319c-4fae-9481-0777492afd92 dropdown-options" ><option selected="selected" class="option">ABC-0011</option>\
-        <option  class="option">ABC-0012</option>\
-        <option  class="option">ABC-0013</option></select></div>\
-        <div id="s-Category_2" class="dropdown firer commentable non-processed" customid="Category 1"    datasizewidth="300.0px" datasizeheight="45.0px" dataX="662.9" dataY="494.0"  tabindex="-1"><div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div><div class="borderLayer"><div class="paddingLayer"><div class="content icon"><div class="valign"><div class="value">Antonio Marquez</div></div></div></div></div><select id="s-Category_2-options" class="s-c0d86d48-319c-4fae-9481-0777492afd92 dropdown-options" ><option selected="selected" class="option">Antonio Marquez</option>\
-        <option  class="option">Pedro Correa</option>\
-        <option  class="option">Agustin Mart&iacute;nez</option></select></div>\
-        <div id="s-Paragraph_7" class="richtext manualfit firer ie-background commentable non-processed" customid="Asignar Unidad y Operador"   datasizewidth="321.7px" datasizeheight="37.0px" dataX="663.0" dataY="275.0" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Paragraph_7_0">Asignar Unidad y Operador </span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
-\
-\
-      <div id="s-Group_4" class="group firer ie-background commentable hidden non-processed" customid="Group 4" datasizewidth="0.0px" datasizeheight="0.0px" >\
-        <div id="s-Rectangle_3" class="rectangle manualfit firer commentable non-processed" customid="Rectangle 1"   datasizewidth="371.0px" datasizeheight="505.0px" datasizewidthpx="371.0" datasizeheightpx="505.0000000000002" dataX="636.0" dataY="234.0" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Rectangle_3_0"></span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-        <div id="s-Paragraph_11" class="richtext manualfit firer ie-background commentable hidden non-processed" customid="Unidad"   datasizewidth="112.5px" datasizeheight="25.0px" dataX="665.0" dataY="474.0" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Paragraph_11_0">Unidad </span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-        <div id="s-Paragraph_12" class="richtext manualfit firer ie-background commentable hidden non-processed" customid="Operador"   datasizewidth="112.5px" datasizeheight="25.0px" dataX="665.0" dataY="555.0" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Paragraph_12_0">Operador </span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-        <div id="s-Button_3" class="button multiline manualfit firer click commentable hidden non-processed" customid="Cancelar"   datasizewidth="134.5px" datasizeheight="36.0px" dataX="665.0" dataY="660.0" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Button_3_0">Cancelar </span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-        <div id="s-Button_4" class="button multiline manualfit firer click commentable hidden non-processed" customid="Aceptar"   datasizewidth="129.6px" datasizeheight="35.6px" dataX="831.8" dataY="660.2" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Button_4_0">Aceptar</span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-        <div id="s-Category_3" class="dropdown firer commentable hidden non-processed" customid="Category 1"    datasizewidth="296.8px" datasizeheight="45.0px" dataX="665.0" dataY="497.0"  tabindex="-1"><div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div><div class="borderLayer"><div class="paddingLayer"><div class="content icon"><div class="valign"><div class="value">ABC-0012</div></div></div></div></div><select id="s-Category_3-options" class="s-c0d86d48-319c-4fae-9481-0777492afd92 dropdown-options" ><option selected="selected" class="option">ABC-0012</option>\
-        <option  class="option">ABC-0013</option></select></div>\
-        <div id="s-Category_4" class="dropdown firer commentable hidden non-processed" customid="Category 1"    datasizewidth="296.8px" datasizeheight="45.0px" dataX="665.0" dataY="580.0"  tabindex="-1"><div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div><div class="borderLayer"><div class="paddingLayer"><div class="content icon"><div class="valign"><div class="value">Pedro Correa</div></div></div></div></div><select id="s-Category_4-options" class="s-c0d86d48-319c-4fae-9481-0777492afd92 dropdown-options" ><option selected="selected" class="option">Pedro Correa</option>\
-        <option  class="option">Agustin Mart&iacute;nez</option></select></div>\
-        <div id="s-Paragraph_13" class="richtext manualfit firer ie-background commentable hidden non-processed" customid="O asignar Unidad y Operad"   datasizewidth="318.2px" datasizeheight="37.0px" dataX="665.0" dataY="410.0" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Paragraph_13_0">O asignar Unidad y Operador </span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-        <div id="s-Paragraph_14" class="richtext manualfit firer ie-background commentable hidden non-processed" customid="Asignar a viaje"   datasizewidth="318.2px" datasizeheight="37.0px" dataX="665.0" dataY="258.0" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Paragraph_14_0">Asignar a viaje </span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-        <div id="s-Category_5" class="dropdown firer commentable hidden non-processed" customid="Category 1"    datasizewidth="296.8px" datasizeheight="45.0px" dataX="665.0" dataY="309.0"  tabindex="-1"><div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div><div class="borderLayer"><div class="paddingLayer"><div class="content icon"><div class="valign"><div class="value">ABC-0011 &nbsp; Antonio Marquez</div></div></div></div></div><select id="s-Category_5-options" class="s-c0d86d48-319c-4fae-9481-0777492afd92 dropdown-options" ><option selected="selected" class="option">ABC-0011 &nbsp; Antonio Marquez</option></select></div>\
-      </div>\
-\
-\
-      <div id="s-Group_6" class="group firer ie-background commentable hidden non-processed" customid="Group 4" datasizewidth="0.0px" datasizeheight="0.0px" >\
-        <div id="s-Rectangle_5" class="rectangle manualfit firer commentable non-processed" customid="Rectangle 1"   datasizewidth="371.0px" datasizeheight="505.0px" datasizewidthpx="371.0" datasizeheightpx="505.0000000000002" dataX="636.0" dataY="234.0" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Rectangle_5_0"></span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-        <div id="s-Paragraph_17" class="richtext manualfit firer ie-background commentable hidden non-processed" customid="Unidad"   datasizewidth="112.5px" datasizeheight="25.0px" dataX="665.0" dataY="474.0" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Paragraph_17_0">Unidad </span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-        <div id="s-Paragraph_18" class="richtext manualfit firer ie-background commentable hidden non-processed" customid="Operador"   datasizewidth="112.5px" datasizeheight="25.0px" dataX="665.0" dataY="555.0" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Paragraph_18_0">Operador </span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-        <div id="s-Button_5" class="button multiline manualfit firer click commentable hidden non-processed" customid="Cancelar"   datasizewidth="134.5px" datasizeheight="36.0px" dataX="665.0" dataY="660.0" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Button_5_0">Cancelar </span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-        <div id="s-Button_6" class="button multiline manualfit firer click commentable hidden non-processed" customid="Aceptar"   datasizewidth="129.6px" datasizeheight="35.6px" dataX="831.8" dataY="660.2" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Button_6_0">Aceptar</span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-        <div id="s-Category_6" class="dropdown firer commentable hidden non-processed" customid="Category 1"    datasizewidth="296.8px" datasizeheight="45.0px" dataX="665.0" dataY="497.0"  tabindex="-1"><div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div><div class="borderLayer"><div class="paddingLayer"><div class="content icon"><div class="valign"><div class="value">ABC-0012</div></div></div></div></div><select id="s-Category_6-options" class="s-c0d86d48-319c-4fae-9481-0777492afd92 dropdown-options" ><option selected="selected" class="option">ABC-0012</option>\
-        <option  class="option">ABC-0013</option></select></div>\
-        <div id="s-Category_7" class="dropdown firer commentable hidden non-processed" customid="Category 1"    datasizewidth="296.8px" datasizeheight="45.0px" dataX="665.0" dataY="580.0"  tabindex="-1"><div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div><div class="borderLayer"><div class="paddingLayer"><div class="content icon"><div class="valign"><div class="value">Pedro Correa</div></div></div></div></div><select id="s-Category_7-options" class="s-c0d86d48-319c-4fae-9481-0777492afd92 dropdown-options" ><option selected="selected" class="option">Pedro Correa</option>\
-        <option  class="option">Agustin Mart&iacute;nez</option></select></div>\
-        <div id="s-Paragraph_19" class="richtext manualfit firer ie-background commentable hidden non-processed" customid="O asignar Unidad y Operad"   datasizewidth="318.2px" datasizeheight="37.0px" dataX="665.0" dataY="410.0" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Paragraph_19_0">O asignar Unidad y Operador </span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-        <div id="s-Paragraph_20" class="richtext manualfit firer ie-background commentable hidden non-processed" customid="Asignar a viaje"   datasizewidth="318.2px" datasizeheight="37.0px" dataX="665.0" dataY="258.0" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Paragraph_20_0">Asignar a viaje </span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-        <div id="s-Category_8" class="dropdown firer commentable hidden non-processed" customid="Category 1"    datasizewidth="296.8px" datasizeheight="45.0px" dataX="665.0" dataY="309.0"  tabindex="-1"><div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div><div class="borderLayer"><div class="paddingLayer"><div class="content icon"><div class="valign"><div class="value">ABC-0011 &nbsp; Antonio Marquez</div></div></div></div></div><select id="s-Category_8-options" class="s-c0d86d48-319c-4fae-9481-0777492afd92 dropdown-options" ><option selected="selected" class="option">ABC-0011 &nbsp; Antonio Marquez</option></select></div>\
-      </div>\
-\
 \
       <div id="s-Group_7" class="group firer ie-background commentable non-processed" customid="Group 7" datasizewidth="0.0px" datasizeheight="0.0px" >\
         <div id="s-Rectangle_6" class="rectangle manualfit firer commentable hidden non-processed" customid="Rectangle 5"   datasizewidth="581.3px" datasizeheight="70.0px" datasizewidthpx="581.3122517496122" datasizeheightpx="69.99998140554914" dataX="752.0" dataY="20.0" >\
@@ -3295,7 +2975,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
 \
       </div>\
 \
-      <div id="s-Paragraph_23" class="richtext autofit firer ie-background commentable hidden non-processed" customid="001"   datasizewidth="30.0px" datasizeheight="20.0px" dataX="1037.0" dataY="396.2" >\
+      <div id="s-Paragraph_23" class="richtext autofit firer ie-background commentable hidden non-processed" customid="001"   datasizewidth="30.0px" datasizeheight="20.0px" dataX="1221.0" dataY="396.2" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -3310,7 +2990,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_24" class="richtext manualfit firer ie-background commentable hidden non-processed" customid="002"   datasizewidth="30.0px" datasizeheight="20.0px" dataX="1037.0" dataY="437.0" >\
+      <div id="s-Paragraph_24" class="richtext manualfit firer ie-background commentable hidden non-processed" customid="002"   datasizewidth="30.0px" datasizeheight="20.0px" dataX="1218.5" dataY="438.2" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -3325,7 +3005,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_25" class="richtext manualfit firer ie-background commentable non-processed" customid="Anterior"   datasizewidth="91.6px" datasizeheight="22.0px" dataX="1023.1" dataY="521.1" >\
+      <div id="s-Paragraph_25" class="richtext manualfit firer ie-background commentable non-processed" customid="Anterior"   datasizewidth="91.6px" datasizeheight="22.0px" dataX="1205.1" dataY="521.1" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -3340,7 +3020,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Button_7" class="button multiline manualfit firer commentable non-processed" customid="1"   datasizewidth="54.3px" datasizeheight="37.3px" dataX="1092.4" dataY="513.4" >\
+      <div id="s-Button_7" class="button multiline manualfit firer commentable non-processed" customid="1"   datasizewidth="54.3px" datasizeheight="37.3px" dataX="1274.4" dataY="513.4" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -3355,7 +3035,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_26" class="richtext manualfit firer ie-background commentable non-processed" customid="Siguiente"   datasizewidth="91.6px" datasizeheight="22.0px" dataX="1208.3" dataY="521.1" >\
+      <div id="s-Paragraph_26" class="richtext manualfit firer ie-background commentable non-processed" customid="Siguiente"   datasizewidth="91.6px" datasizeheight="22.0px" dataX="1390.3" dataY="521.1" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -3370,7 +3050,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Button_8" class="button multiline manualfit firer commentable non-processed" customid="2"   datasizewidth="54.3px" datasizeheight="37.3px" dataX="1152.3" dataY="513.4" >\
+      <div id="s-Button_8" class="button multiline manualfit firer commentable non-processed" customid="2"   datasizewidth="54.3px" datasizeheight="37.3px" dataX="1334.3" dataY="513.4" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -3385,6 +3065,388 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
+      <div id="s-Paragraph_31" class="richtext manualfit firer ie-background commentable hidden non-processed" customid="Antonio Marquez"   datasizewidth="100.5px" datasizeheight="40.0px" dataX="749.0" dataY="388.9" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_31_0">Antonio Marquez</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Paragraph_32" class="richtext manualfit firer ie-background commentable hidden non-processed" customid="ABC-001"   datasizewidth="100.5px" datasizeheight="40.0px" dataX="832.4" dataY="398.2" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_32_0">ABC-001</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Group_2" class="group firer ie-background commentable hidden non-processed" customid="Group 1" datasizewidth="0.0px" datasizeheight="0.0px" >\
+        <div id="s-Rectangle_1" class="rectangle manualfit firer commentable non-processed" customid="Rectangle 1"   datasizewidth="375.0px" datasizeheight="426.0px" datasizewidthpx="375.0" datasizeheightpx="426.0000000000003" dataX="745.0" dataY="205.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Rectangle_1_0"></span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Paragraph_2" class="richtext manualfit firer ie-background commentable non-processed" customid="Unidad"   datasizewidth="113.7px" datasizeheight="25.0px" dataX="774.0" dataY="319.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_2_0">Unidad </span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Paragraph_6" class="richtext manualfit firer ie-background commentable non-processed" customid="Operador"   datasizewidth="113.7px" datasizeheight="25.0px" dataX="774.0" dataY="431.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_6_0">Operador </span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Button_1" class="button multiline manualfit firer click commentable non-processed" customid="Cancelar"   datasizewidth="136.0px" datasizeheight="36.0px" dataX="773.9" dataY="549.8" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Button_1_0">Cancelar </span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Button_2" class="button multiline manualfit firer click commentable non-processed" customid="Aceptar"   datasizewidth="131.0px" datasizeheight="35.6px" dataX="942.9" dataY="550.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Button_2_0">Aceptar</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Category_1" class="dropdown firer commentable non-processed" customid="Category 1"    datasizewidth="300.0px" datasizeheight="45.0px" dataX="774.0" dataY="355.0"  tabindex="-1"><div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div><div class="borderLayer"><div class="paddingLayer"><div class="content icon"><div class="valign"><div class="value">ABC-0011</div></div></div></div></div><select id="s-Category_1-options" class="s-c0d86d48-319c-4fae-9481-0777492afd92 dropdown-options" ><option selected="selected" class="option">ABC-0011</option>\
+        <option  class="option">ABC-0012</option>\
+        <option  class="option">ABC-0013</option></select></div>\
+        <div id="s-Category_2" class="dropdown firer commentable non-processed" customid="Category 1"    datasizewidth="300.0px" datasizeheight="45.0px" dataX="773.9" dataY="465.0"  tabindex="-1"><div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div><div class="borderLayer"><div class="paddingLayer"><div class="content icon"><div class="valign"><div class="value">Antonio Marquez</div></div></div></div></div><select id="s-Category_2-options" class="s-c0d86d48-319c-4fae-9481-0777492afd92 dropdown-options" ><option selected="selected" class="option">Antonio Marquez</option>\
+        <option  class="option">Pedro Correa</option>\
+        <option  class="option">Agustin Mart&iacute;nez</option></select></div>\
+        <div id="s-Paragraph_7" class="richtext manualfit firer ie-background commentable non-processed" customid="Asignar Unidad y Operador"   datasizewidth="321.7px" datasizeheight="37.0px" dataX="774.0" dataY="246.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_7_0">Asignar Unidad y Operador </span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Group_4" class="group firer ie-background commentable hidden non-processed" customid="Group 4" datasizewidth="0.0px" datasizeheight="0.0px" >\
+        <div id="s-Rectangle_3" class="rectangle manualfit firer commentable non-processed" customid="Rectangle 1"   datasizewidth="371.0px" datasizeheight="505.0px" datasizewidthpx="371.0" datasizeheightpx="505.0000000000002" dataX="747.0" dataY="205.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Rectangle_3_0"></span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Paragraph_11" class="richtext manualfit firer ie-background commentable hidden non-processed" customid="Unidad"   datasizewidth="112.5px" datasizeheight="25.0px" dataX="776.0" dataY="445.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_11_0">Unidad </span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Paragraph_12" class="richtext manualfit firer ie-background commentable hidden non-processed" customid="Operador"   datasizewidth="112.5px" datasizeheight="25.0px" dataX="776.0" dataY="526.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_12_0">Operador </span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Button_3" class="button multiline manualfit firer click commentable hidden non-processed" customid="Cancelar"   datasizewidth="134.5px" datasizeheight="36.0px" dataX="776.0" dataY="631.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Button_3_0">Cancelar </span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Button_4" class="button multiline manualfit firer click commentable hidden non-processed" customid="Aceptar"   datasizewidth="129.6px" datasizeheight="35.6px" dataX="942.8" dataY="631.2" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Button_4_0">Aceptar</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Category_3" class="dropdown firer commentable hidden non-processed" customid="Category 1"    datasizewidth="296.8px" datasizeheight="45.0px" dataX="776.0" dataY="468.0"  tabindex="-1"><div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div><div class="borderLayer"><div class="paddingLayer"><div class="content icon"><div class="valign"><div class="value">ABC-0012</div></div></div></div></div><select id="s-Category_3-options" class="s-c0d86d48-319c-4fae-9481-0777492afd92 dropdown-options" ><option selected="selected" class="option">ABC-0012</option>\
+        <option  class="option">ABC-0013</option></select></div>\
+        <div id="s-Category_4" class="dropdown firer commentable hidden non-processed" customid="Category 1"    datasizewidth="296.8px" datasizeheight="45.0px" dataX="776.0" dataY="551.0"  tabindex="-1"><div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div><div class="borderLayer"><div class="paddingLayer"><div class="content icon"><div class="valign"><div class="value">Pedro Correa</div></div></div></div></div><select id="s-Category_4-options" class="s-c0d86d48-319c-4fae-9481-0777492afd92 dropdown-options" ><option selected="selected" class="option">Pedro Correa</option>\
+        <option  class="option">Agustin Mart&iacute;nez</option></select></div>\
+        <div id="s-Paragraph_13" class="richtext manualfit firer ie-background commentable hidden non-processed" customid="O asignar Unidad y Operad"   datasizewidth="318.2px" datasizeheight="37.0px" dataX="776.0" dataY="381.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_13_0">O asignar Unidad y Operador </span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Paragraph_14" class="richtext manualfit firer ie-background commentable hidden non-processed" customid="Asignar a viaje"   datasizewidth="318.2px" datasizeheight="37.0px" dataX="776.0" dataY="229.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_14_0">Asignar a viaje </span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Category_5" class="dropdown firer commentable hidden non-processed" customid="Category 1"    datasizewidth="296.8px" datasizeheight="45.0px" dataX="776.0" dataY="280.0"  tabindex="-1"><div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div><div class="borderLayer"><div class="paddingLayer"><div class="content icon"><div class="valign"><div class="value">ABC-0011 &nbsp; Antonio Marquez</div></div></div></div></div><select id="s-Category_5-options" class="s-c0d86d48-319c-4fae-9481-0777492afd92 dropdown-options" ><option selected="selected" class="option">ABC-0011 &nbsp; Antonio Marquez</option></select></div>\
+      </div>\
+\
+\
+      <div id="s-Group_6" class="group firer ie-background commentable hidden non-processed" customid="Group 4" datasizewidth="0.0px" datasizeheight="0.0px" >\
+        <div id="s-Rectangle_5" class="rectangle manualfit firer commentable non-processed" customid="Rectangle 1"   datasizewidth="371.0px" datasizeheight="505.0px" datasizewidthpx="371.0" datasizeheightpx="505.0000000000002" dataX="747.0" dataY="205.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Rectangle_5_0"></span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Paragraph_17" class="richtext manualfit firer ie-background commentable hidden non-processed" customid="Unidad"   datasizewidth="112.5px" datasizeheight="25.0px" dataX="776.0" dataY="445.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_17_0">Unidad </span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Paragraph_18" class="richtext manualfit firer ie-background commentable hidden non-processed" customid="Operador"   datasizewidth="112.5px" datasizeheight="25.0px" dataX="776.0" dataY="526.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_18_0">Operador </span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Button_5" class="button multiline manualfit firer click commentable hidden non-processed" customid="Cancelar"   datasizewidth="134.5px" datasizeheight="36.0px" dataX="776.0" dataY="631.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Button_5_0">Cancelar </span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Button_6" class="button multiline manualfit firer click commentable hidden non-processed" customid="Aceptar"   datasizewidth="129.6px" datasizeheight="35.6px" dataX="942.8" dataY="631.2" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Button_6_0">Aceptar</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Category_6" class="dropdown firer commentable hidden non-processed" customid="Category 1"    datasizewidth="296.8px" datasizeheight="45.0px" dataX="776.0" dataY="468.0"  tabindex="-1"><div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div><div class="borderLayer"><div class="paddingLayer"><div class="content icon"><div class="valign"><div class="value">ABC-0012</div></div></div></div></div><select id="s-Category_6-options" class="s-c0d86d48-319c-4fae-9481-0777492afd92 dropdown-options" ><option selected="selected" class="option">ABC-0012</option>\
+        <option  class="option">ABC-0013</option></select></div>\
+        <div id="s-Category_7" class="dropdown firer commentable hidden non-processed" customid="Category 1"    datasizewidth="296.8px" datasizeheight="45.0px" dataX="776.0" dataY="551.0"  tabindex="-1"><div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div><div class="borderLayer"><div class="paddingLayer"><div class="content icon"><div class="valign"><div class="value">Pedro Correa</div></div></div></div></div><select id="s-Category_7-options" class="s-c0d86d48-319c-4fae-9481-0777492afd92 dropdown-options" ><option selected="selected" class="option">Pedro Correa</option>\
+        <option  class="option">Agustin Mart&iacute;nez</option></select></div>\
+        <div id="s-Paragraph_19" class="richtext manualfit firer ie-background commentable hidden non-processed" customid="O asignar Unidad y Operad"   datasizewidth="318.2px" datasizeheight="37.0px" dataX="776.0" dataY="381.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_19_0">O asignar Unidad y Operador </span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Paragraph_20" class="richtext manualfit firer ie-background commentable hidden non-processed" customid="Asignar a viaje"   datasizewidth="318.2px" datasizeheight="37.0px" dataX="776.0" dataY="229.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_20_0">Asignar a viaje </span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Category_8" class="dropdown firer commentable hidden non-processed" customid="Category 1"    datasizewidth="296.8px" datasizeheight="45.0px" dataX="776.0" dataY="280.0"  tabindex="-1"><div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div><div class="borderLayer"><div class="paddingLayer"><div class="content icon"><div class="valign"><div class="value">ABC-0011 &nbsp; Antonio Marquez</div></div></div></div></div><select id="s-Category_8-options" class="s-c0d86d48-319c-4fae-9481-0777492afd92 dropdown-options" ><option selected="selected" class="option">ABC-0011 &nbsp; Antonio Marquez</option></select></div>\
+      </div>\
+\
       </div>\
 \
       </div>\

@@ -1710,6 +1710,24 @@ jQuery("#simulation")
           ],
           "exectype": "serial",
           "delay": 0
+        },
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimShow",
+                  "parameter": {
+                    "target": [ "#s-Paragraph_48" ]
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
         }
       ];
       event.data = data;

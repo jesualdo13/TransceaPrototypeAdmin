@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1688488257545.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1688506419889.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="s-543abd4a-1ef3-4935-b3d5-66b162e9cf1e" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Usuario Restablecer Contrase&ntilde;a" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/543abd4a-1ef3-4935-b3d5-66b162e9cf1e-1688488257545.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/543abd4a-1ef3-4935-b3d5-66b162e9cf1e-1688506419889.css" />\
       <div class="freeLayout">\
       <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Group 7" datasizewidth="0.0px" datasizeheight="0.0px" >\
         <div id="s-Rectangle_1" class="rectangle manualfit firer commentable non-processed" customid="Rectangle 7"   datasizewidth="583.9px" datasizeheight="458.5px" datasizewidthpx="583.9072265625009" datasizeheightpx="458.4999999999991" dataX="391.1" dataY="246.0" >\

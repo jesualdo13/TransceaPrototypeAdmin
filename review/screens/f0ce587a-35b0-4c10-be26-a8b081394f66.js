@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1688488257545.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1688506419889.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="s-f0ce587a-35b0-4c10-be26-a8b081394f66" class="screen growth-vertical devWeb canvas PORTRAIT firer commentable non-processed" alignment="left" name="Operadores Actualizar" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/f0ce587a-35b0-4c10-be26-a8b081394f66-1688488257545.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/f0ce587a-35b0-4c10-be26-a8b081394f66-1688506419889.css" />\
       <div class="freeLayout">\
       <div id="s-Slice_2" class="slice firer ie-background commentable non-processed" customid="Slice 2" datasizewidth="591.0px" datasizeheight="1046.4px" dataX="387.5" dataY="146.6" >\
         <div class="layoutWrapper scrollable">\

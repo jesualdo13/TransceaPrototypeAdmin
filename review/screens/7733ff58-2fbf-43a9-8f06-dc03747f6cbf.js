@@ -1,22 +1,22 @@
-var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWidth="1366" deviceHeight="768">\
+var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWidth="1600" deviceHeight="768">\
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1688488257545.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1688506419889.css" />\
       <div class="freeLayout">\
       </div>\
 \
       </div>\
       <div id="loadMark"></div>\
     </div>\
-    <div id="s-7733ff58-2fbf-43a9-8f06-dc03747f6cbf" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Ordenes Entregadas" width="1366" height="768">\
+    <div id="s-7733ff58-2fbf-43a9-8f06-dc03747f6cbf" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Ordenes Entregadas" width="1600" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/7733ff58-2fbf-43a9-8f06-dc03747f6cbf-1688488257545.css" />\
-      <link type="text/css" rel="stylesheet" href="./resources/masters/91250b08-0f5e-426b-8b2c-1d193d97d774-1688488257545.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/7733ff58-2fbf-43a9-8f06-dc03747f6cbf-1688506419889.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/masters/91250b08-0f5e-426b-8b2c-1d193d97d774-1688506419889.css" />\
       <div class="freeLayout">\
       <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Group 1" datasizewidth="0.0px" datasizeheight="0.0px" >\
-        <div id="s-Paragraph_21" class="richtext manualfit firer ie-background commentable non-processed" customid="&Oacute;rdenes con entrega exito"   datasizewidth="380.1px" datasizeheight="37.0px" dataX="601.0" dataY="116.0" >\
+        <div id="s-Paragraph_21" class="richtext manualfit firer ie-background commentable non-processed" customid="&Oacute;rdenes con entrega exito"   datasizewidth="380.1px" datasizeheight="37.0px" dataX="732.0" dataY="111.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -31,7 +31,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             </div>\
           </div>\
         </div>\
-        <div id="s-Table_1" class="table firer commentable non-processed" customid="Table 1"  datasizewidth="854.8px" datasizeheight="159.7px" dataX="358.0" dataY="286.0" originalwidth="853.7777777777778px" originalheight="158.66666666666663px" >\
+        <div id="s-Table_1" class="table firer commentable non-processed" customid="Table 1"  datasizewidth="1128.1px" datasizeheight="159.7px" dataX="358.0" dataY="286.0" originalwidth="1127.111111111111px" originalheight="158.66666666666663px" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -41,153 +41,201 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
               <table summary="">\
                 <tbody>\
                   <tr>\
-                    <td id="s-Text_cell_45" class="textcell manualfit firer ie-background non-processed" customid="# Orden"     datasizewidth="125.9px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="124.88888888888889px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_45" class="textcell manualfit firer ie-background non-processed" customid="# Orden"     datasizewidth="125.9px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="124.8888888888889px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_45_0"># Orden</span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_46" class="textcell manualfit firer ie-background non-processed" customid="N&uacute;mero de Seguimiento"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_46" class="textcell manualfit firer ie-background non-processed" customid="N&uacute;mero de Seguimiento"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_46_0">N&uacute;mero de Seguimiento</span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_47" class="textcell manualfit firer ie-background non-processed" customid="N&uacute;mero de Referencia"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_47" class="textcell manualfit firer ie-background non-processed" customid="N&uacute;mero de Referencia"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_47_0">N&uacute;mero de Referencia </span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_48" class="textcell manualfit firer ie-background non-processed" customid="Cliente"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_48" class="textcell manualfit firer ie-background non-processed" customid="Cliente"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_48_0">Cliente </span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_49" class="textcell manualfit firer ie-background non-processed" customid="Fecha de Recepci&oacute;n"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="34.4" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_37" class="textcell manualfit firer ie-background non-processed" customid="Operador"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                      <div class="colorLayer"></div>\
+                      <div class="imageLayer"></div>\
+                    </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_37_0">Operador </span></div></div></div></div></div></div>  </td>\
+                    <td id="s-Text_cell_55" class="textcell manualfit firer ie-background non-processed" customid="Unidad"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                      <div class="colorLayer"></div>\
+                      <div class="imageLayer"></div>\
+                    </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_55_0">Unidad</span></div></div></div></div></div></div>  </td>\
+                    <td id="s-Text_cell_49" class="textcell manualfit firer ie-background non-processed" customid="Fecha de Recepci&oacute;n"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="54.7" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_49_0">Fecha de Recepci&oacute;n</span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_41" class="textcell manualfit firer ie-background non-processed" customid="Fecha de entrega"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="47.2" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_41" class="textcell manualfit firer ie-background non-processed" customid="Fecha de entrega"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="67.5" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_41_0">Fecha de entrega</span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_52" class="textcell manualfit firer ie-background non-processed" customid="Tipo de Servicio"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="47.2" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_52" class="textcell manualfit firer ie-background non-processed" customid="Tipo de Servicio"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="67.5" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_52_0">Tipo de Servicio</span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_54" class="textcell manualfit firer ie-background non-processed" customid="Paquetes"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="47.2" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_54" class="textcell manualfit firer ie-background non-processed" customid="Paquetes"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="67.5" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_54_0">Paquetes</span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_42" class="textcell manualfit firer ie-background non-processed" customid="Acuse de entrega"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="47.2" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_72" class="textcell manualfit firer ie-background non-processed" customid="Viaje"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="67.5" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                      <div class="colorLayer"></div>\
+                      <div class="imageLayer"></div>\
+                    </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_72_0">Viaje</span></div></div></div></div></div></div>  </td>\
+                    <td id="s-Text_cell_42" class="textcell manualfit firer ie-background non-processed" customid="Acuse de entrega"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="76.3" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_42_0">Acuse de entrega </span></div></div></div></div></div></div>  </td>\
                   </tr>\
                   <tr>\
-                    <td id="s-Text_cell_56" class="textcell manualfit firer ie-background non-processed" customid="1"     datasizewidth="125.9px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="124.88888888888889px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_56" class="textcell manualfit firer ie-background non-processed" customid="1"     datasizewidth="125.9px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="124.8888888888889px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_56_0">1</span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_57" class="textcell manualfit firer ie-background non-processed" customid="1231231"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_57" class="textcell manualfit firer ie-background non-processed" customid="1231231"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_57_0">1231231</span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_58" class="textcell manualfit firer ie-background non-processed" customid="112313"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_58" class="textcell manualfit firer ie-background non-processed" customid="112313"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_58_0">112313</span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_59" class="textcell manualfit firer ie-background non-processed" customid="Verizon"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_59" class="textcell manualfit firer ie-background non-processed" customid="Verizon"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_59_0">Verizon</span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_60" class="textcell manualfit firer ie-background non-processed" customid="05/05/2023"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="34.4" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_38" class="textcell manualfit firer ie-background non-processed" customid="Antonio Marquez"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                      <div class="colorLayer"></div>\
+                      <div class="imageLayer"></div>\
+                    </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_38_0">Antonio Marquez</span></div></div></div></div></div></div>  </td>\
+                    <td id="s-Text_cell_62" class="textcell manualfit firer ie-background non-processed" customid="ABC-001"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                      <div class="colorLayer"></div>\
+                      <div class="imageLayer"></div>\
+                    </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_62_0">ABC-001</span></div></div></div></div></div></div>  </td>\
+                    <td id="s-Text_cell_60" class="textcell manualfit firer ie-background non-processed" customid="05/05/2023"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="54.7" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_60_0">05/05/2023</span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_43" class="textcell manualfit firer ie-background non-processed" customid="10/05/2023"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="47.2" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_43" class="textcell manualfit firer ie-background non-processed" customid="10/05/2023"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="67.5" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_43_0">10/05/2023</span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_63" class="textcell manualfit firer ie-background non-processed" customid="Econ&oacute;mico"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="47.2" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_63" class="textcell manualfit firer ie-background non-processed" customid="Econ&oacute;mico"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="67.5" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_63_0">Econ&oacute;mico</span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_65" class="textcell manualfit firer ie-background non-processed" customid="23"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="47.2" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_65" class="textcell manualfit firer ie-background non-processed" customid="23"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="67.5" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_65_0">23</span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_44" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="47.2" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_73" class="textcell manualfit firer ie-background non-processed" customid="001"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="67.5" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                      <div class="colorLayer"></div>\
+                      <div class="imageLayer"></div>\
+                    </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_73_0">001</span></div></div></div></div></div></div>  </td>\
+                    <td id="s-Text_cell_44" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="76.3" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_44_0"></span></div></div></div></div></div></div>  </td>\
                   </tr>\
                   <tr>\
-                    <td id="s-Text_cell_67" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="125.9px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="124.88888888888889px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_67" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="125.9px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="124.8888888888889px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_67_0"></span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_68" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_68" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_68_0"></span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_69" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_69" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_69_0"></span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_70" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_70" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_70_0"></span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_71" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="34.4" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_39" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                      <div class="colorLayer"></div>\
+                      <div class="imageLayer"></div>\
+                    </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_39_0"></span></div></div></div></div></div></div>  </td>\
+                    <td id="s-Text_cell_64" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                      <div class="colorLayer"></div>\
+                      <div class="imageLayer"></div>\
+                    </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_64_0"></span></div></div></div></div></div></div>  </td>\
+                    <td id="s-Text_cell_71" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="54.7" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_71_0"></span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_50" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="47.2" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_50" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="67.5" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_50_0"></span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_74" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="47.2" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_74" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="67.5" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_74_0"></span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_76" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="47.2" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_76" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="67.5" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_76_0"></span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_51" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="47.2" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_75" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="67.5" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                      <div class="colorLayer"></div>\
+                      <div class="imageLayer"></div>\
+                    </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_75_0"></span></div></div></div></div></div></div>  </td>\
+                    <td id="s-Text_cell_51" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="76.3" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_51_0"></span></div></div></div></div></div></div>  </td>\
                   </tr>\
                   <tr>\
-                    <td id="s-Text_cell_78" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="125.9px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="124.88888888888889px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_78" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="125.9px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="124.8888888888889px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_78_0"></span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_79" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_79" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_79_0"></span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_80" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_80" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_80_0"></span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_81" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_81" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_81_0"></span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_82" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="34.4" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_40" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                      <div class="colorLayer"></div>\
+                      <div class="imageLayer"></div>\
+                    </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_40_0"></span></div></div></div></div></div></div>  </td>\
+                    <td id="s-Text_cell_66" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="0.0" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                      <div class="colorLayer"></div>\
+                      <div class="imageLayer"></div>\
+                    </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_66_0"></span></div></div></div></div></div></div>  </td>\
+                    <td id="s-Text_cell_82" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="54.7" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_82_0"></span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_53" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="47.2" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_53" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="67.5" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_53_0"></span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_85" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="47.2" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_85" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="67.5" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_85_0"></span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_87" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="47.2" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_87" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="67.5" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_87_0"></span></div></div></div></div></div></div>  </td>\
-                    <td id="s-Text_cell_61" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="47.2" dataY="0.0" originalwidth="91.11111111111109px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <td id="s-Text_cell_77" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="67.5" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                      <div class="colorLayer"></div>\
+                      <div class="imageLayer"></div>\
+                    </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_77_0"></span></div></div></div></div></div></div>  </td>\
+                    <td id="s-Text_cell_61" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"     datasizewidth="92.1px" datasizeheight="40.7px" dataX="76.3" dataY="0.0" originalwidth="91.11111111111107px" originalheight="39.66666666666666px" ><div class="cellContainerChild"><div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
                     </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_61_0"></span></div></div></div></div></div></div>  </td>\
@@ -2606,7 +2654,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
       </div>\
 \
 \
-      <div id="s-Image" class="image firer click ie-background commentable non-processed" customid="Image"   datasizewidth="25.0px" datasizeheight="24.0px" dataX="1155.8" dataY="332.0"   alt="image">\
+      <div id="s-Image" class="image firer click ie-background commentable non-processed" customid="Image"   datasizewidth="25.0px" datasizeheight="24.0px" dataX="1430.0" dataY="333.0"   alt="image">\
         <div class="borderLayer">\
         	<div class="imageViewport">\
         		<img src="./images/87c9e226-8798-4cce-a8ec-adcc6e2aabf9.png" />\
@@ -2614,11 +2662,11 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
         </div>\
       </div>\
 \
-      <div id="s-Input_1" class="text firer commentable non-processed" customid="Input"  datasizewidth="854.8px" datasizeheight="41.9px" dataX="358.0" dataY="220.0" ><div class="backgroundLayer">\
+      <div id="s-Input_1" class="text firer commentable non-processed" customid="Input"  datasizewidth="1128.1px" datasizeheight="41.9px" dataX="358.0" dataY="220.0" ><div class="backgroundLayer">\
         <div class="colorLayer"></div>\
         <div class="imageLayer"></div>\
       </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="Buscar"/></div></div>  </div></div></div>\
-      <div id="s-Paragraph_9" class="richtext manualfit firer ie-background commentable non-processed" customid="Anterior"   datasizewidth="91.6px" datasizeheight="22.0px" dataX="955.9" dataY="457.3" >\
+      <div id="s-Paragraph_9" class="richtext manualfit firer ie-background commentable non-processed" customid="Anterior"   datasizewidth="91.6px" datasizeheight="22.0px" dataX="1231.9" dataY="462.3" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -2633,7 +2681,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Button_1" class="button multiline manualfit firer commentable non-processed" customid="1"   datasizewidth="54.3px" datasizeheight="37.3px" dataX="1025.3" dataY="449.7" >\
+      <div id="s-Button_1" class="button multiline manualfit firer commentable non-processed" customid="1"   datasizewidth="54.3px" datasizeheight="37.3px" dataX="1301.3" dataY="454.7" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -2648,7 +2696,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_10" class="richtext manualfit firer ie-background commentable non-processed" customid="Siguiente"   datasizewidth="91.6px" datasizeheight="22.0px" dataX="1141.2" dataY="457.3" >\
+      <div id="s-Paragraph_10" class="richtext manualfit firer ie-background commentable non-processed" customid="Siguiente"   datasizewidth="91.6px" datasizeheight="22.0px" dataX="1417.2" dataY="462.3" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -2663,7 +2711,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Button_2" class="button multiline manualfit firer commentable non-processed" customid="2"   datasizewidth="54.3px" datasizeheight="37.3px" dataX="1085.2" dataY="449.7" >\
+      <div id="s-Button_2" class="button multiline manualfit firer commentable non-processed" customid="2"   datasizewidth="54.3px" datasizeheight="37.3px" dataX="1361.2" dataY="454.7" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\

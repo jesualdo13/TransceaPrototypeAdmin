@@ -1644,6 +1644,45 @@ jQuery("#simulation")
       ];
       event.data = data;
       jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Path_3")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimHide",
+                  "parameter": {
+                    "target": [ "#s-Button_4","#s-Rectangle_3","#s-Paragraph_12","#s-Category_5","#s-Paragraph_11","#s-Group_4","#s-Paragraph_14","#s-Button_3","#s-Category_4","#s-Paragraph_13","#s-Category_3" ]
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                },
+                {
+                  "action": "jimHide",
+                  "parameter": {
+                    "target": [ "#s-Image_13","#s-Group_7","#s-Rectangle_6","#s-Path_3","#s-Paragraph_22" ]
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                },
+                {
+                  "action": "jimHide",
+                  "parameter": {
+                    "target": [ "#s-Group_6","#s-Category_6","#s-Category_7","#s-Paragraph_17","#s-Paragraph_18","#s-Paragraph_20","#s-Button_5","#s-Button_6","#s-Rectangle_5","#s-Category_8","#s-Paragraph_19" ]
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
     } else if(jFirer.is("#s-Button_1")) {
       cases = [
         {
@@ -1701,6 +1740,42 @@ jQuery("#simulation")
                   "action": "jimShow",
                   "parameter": {
                     "target": [ "#s-Paragraph_16" ]
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        },
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimShow",
+                  "parameter": {
+                    "target": [ "#s-Paragraph_32","#s-Paragraph_31" ]
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        },
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimShow",
+                  "parameter": {
+                    "target": [ "#s-Paragraph_23" ]
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -1809,45 +1884,6 @@ jQuery("#simulation")
                   "action": "jimShow",
                   "parameter": {
                     "target": [ "#s-Image_6" ]
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        }
-      ];
-      event.data = data;
-      jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Path_3")) {
-      cases = [
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimHide",
-                  "parameter": {
-                    "target": [ "#s-Button_4","#s-Rectangle_3","#s-Paragraph_12","#s-Category_5","#s-Paragraph_11","#s-Group_4","#s-Paragraph_14","#s-Button_3","#s-Category_4","#s-Paragraph_13","#s-Category_3" ]
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                },
-                {
-                  "action": "jimHide",
-                  "parameter": {
-                    "target": [ "#s-Image_13","#s-Group_7","#s-Rectangle_6","#s-Path_3","#s-Paragraph_22" ]
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                },
-                {
-                  "action": "jimHide",
-                  "parameter": {
-                    "target": [ "#s-Group_6","#s-Category_6","#s-Category_7","#s-Paragraph_17","#s-Paragraph_18","#s-Paragraph_20","#s-Button_5","#s-Button_6","#s-Rectangle_5","#s-Category_8","#s-Paragraph_19" ]
                   },
                   "exectype": "serial",
                   "delay": 0
