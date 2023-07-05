@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1688506419889.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1688588220321.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="s-b3d446c1-2b49-42ea-b0a3-020f2660afe6" class="screen growth-vertical devWeb canvas PORTRAIT firer commentable non-processed" alignment="left" name="Clientes Crear desde Orden" width="1038" height="813">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/b3d446c1-2b49-42ea-b0a3-020f2660afe6-1688506419889.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/b3d446c1-2b49-42ea-b0a3-020f2660afe6-1688588220321.css" />\
       <div class="freeLayout">\
       <div id="s-Paragraph_1" class="richtext autofit firer ie-background commentable non-processed" customid="Crear cliente"   datasizewidth="169.6px" datasizeheight="32.0px" dataX="457.3" dataY="114.4" >\
         <div class="backgroundLayer">\

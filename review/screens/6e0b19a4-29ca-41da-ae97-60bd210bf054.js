@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1688506419889.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1688588220321.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="s-6e0b19a4-29ca-41da-ae97-60bd210bf054" class="screen growth-vertical devWeb canvas PORTRAIT firer commentable non-processed" alignment="left" name="Operadores Crear" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/6e0b19a4-29ca-41da-ae97-60bd210bf054-1688506419889.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/6e0b19a4-29ca-41da-ae97-60bd210bf054-1688588220321.css" />\
       <div class="freeLayout">\
       <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Group 4" datasizewidth="0.0px" datasizeheight="0.0px" >\
         <div id="s-Rectangle_2" class="rectangle manualfit firer commentable non-processed" customid="Rectangle 5"   datasizewidth="591.0px" datasizeheight="996.4px" datasizewidthpx="591.0000000000001" datasizeheightpx="996.4393724442623" dataX="388.0" dataY="169.8" >\
