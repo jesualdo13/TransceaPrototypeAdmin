@@ -1999,33 +1999,6 @@ jQuery("#simulation")
       ];
       event.data = data;
       jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Button_4")) {
-      cases = [
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimNavigation",
-                  "parameter": {
-                    "target": "screens/fb17378b-6735-4268-8f2d-769de4c94c0a",
-                    "transition": {
-                      "type": "flow",
-                      "duration": 500
-                    }
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        }
-      ];
-      event.data = data;
-      jEvent.launchCases(cases);
     } else if(jFirer.is("#s-Button_3")) {
       cases = [
         {
@@ -2122,15 +2095,7 @@ jQuery("#simulation")
                 {
                   "action": "jimShow",
                   "parameter": {
-                    "target": [ "#s-Paragraph_41","#s-Image_11","#s-Group_13","#s-Rectangle_15","#s-Path_13" ]
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                },
-                {
-                  "action": "jimShow",
-                  "parameter": {
-                    "target": [ "#s-Image_3","#s-Button_10","#s-Button_7","#s-Group_14","#s-Button_2","#s-Image_7","#s-Group_15","#s-Paragraph_32","#s-Paragraph_33","#s-Table_1","#s-Button_15","#s-Button_5","#s-Paragraph_31" ]
+                    "target": [ "#s-Image_3","#s-Button_10","#s-Button_7","#s-Group_14","#s-Image_7","#s-Group_15","#s-Paragraph_32","#s-Paragraph_33","#s-Table_1","#s-Button_15","#s-Button_5","#s-Paragraph_31" ]
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -2158,44 +2123,27 @@ jQuery("#simulation")
                   },
                   "exectype": "serial",
                   "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        }
-      ];
-      event.data = data;
-      jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Path_12")) {
-      cases = [
-        {
-          "blocks": [
-            {
-              "actions": [
+                },
                 {
-                  "action": "jimHide",
+                  "action": "jimShow",
                   "parameter": {
-                    "target": [ "#s-Path_12","#s-Paragraph_40","#s-Image_10" ]
+                    "target": [ "#s-Group_4","#s-Path_11","#s-Image_9","#s-Paragraph_39","#s-Rectangle_4" ]
                   },
                   "exectype": "serial",
                   "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        },
-        {
-          "blocks": [
-            {
-              "actions": [
+                },
                 {
-                  "action": "jimHide",
+                  "action": "jimShow",
                   "parameter": {
-                    "target": [ "#s-Rectangle_14" ]
+                    "target": [ "#s-Input_30","#s-Paragraph_49" ]
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                },
+                {
+                  "action": "jimShow",
+                  "parameter": {
+                    "target": [ "#s-Image_10","#s-Paragraph_40","#s-Group_12","#s-Path_12","#s-Rectangle_14" ]
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -2259,101 +2207,6 @@ jQuery("#simulation")
       ];
       event.data = data;
       jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Button_2")) {
-      cases = [
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimShow",
-                  "parameter": {
-                    "target": [ "#s-Path_5","#s-Group_8","#s-Image_6","#s-Paragraph_54","#s-Rectangle_12" ]
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        },
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimShow",
-                  "parameter": {
-                    "target": [ "#s-Button_4" ]
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        },
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimShow",
-                  "parameter": {
-                    "target": [ "#s-Input_30","#s-Paragraph_49" ]
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        },
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimShow",
-                  "parameter": {
-                    "target": [ "#s-Group_4","#s-Path_11","#s-Image_9","#s-Paragraph_39","#s-Rectangle_4" ]
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        },
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimHide",
-                  "parameter": {
-                    "target": [ "#s-Button_5" ]
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        }
-      ];
-      event.data = data;
-      jEvent.launchCases(cases);
     } else if(jFirer.is("#s-Image_7")) {
       cases = [
         {
@@ -2363,7 +2216,7 @@ jQuery("#simulation")
                 {
                   "action": "jimShow",
                   "parameter": {
-                    "target": [ "#s-Paragraph_44","#s-Paragraph_43","#s-Input_26","#s-Paragraph_77","#s-Input_27","#s-Button_17","#s-Paragraph_80","#s-Rectangle_16","#s-Paragraph_45","#s-Input_24","#s-Paragraph_53","#s-Paragraph_79","#s-Paragraph_76","#s-Group_17","#s-Input_25","#s-Paragraph_78","#s-Button_16","#s-Paragraph_42" ]
+                    "target": [ "#s-Group_11","#s-Input_24","#s-Paragraph_42","#s-Paragraph_55","#s-Input_26","#s-Paragraph_43","#s-Paragraph_41","#s-Paragraph_57","#s-Paragraph_53","#s-Paragraph_58","#s-Button_4","#s-Input_25","#s-Rectangle_11","#s-Paragraph_44","#s-Input_28","#s-Input_27","#s-Group_9","#s-Paragraph_56","#s-Paragraph_45","#s-Button_2" ]
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -2386,7 +2239,7 @@ jQuery("#simulation")
                 {
                   "action": "jimShow",
                   "parameter": {
-                    "target": [ "#s-Input_35","#s-Paragraph_59","#s-Paragraph_58","#s-Paragraph_61","#s-Paragraph_57","#s-Paragraph_62","#s-Input_32","#s-Paragraph_55","#s-Rectangle_11","#s-Input_33","#s-Paragraph_56","#s-Paragraph_63","#s-Paragraph_60","#s-Paragraph_64","#s-Input_31","#s-Group_9","#s-Button_8","#s-Input_34","#s-Button_6","#s-Group_11" ]
+                    "target": [ "#s-Paragraph_59","#s-Group_13","#s-Input_31","#s-Input_34","#s-Paragraph_77","#s-Input_35","#s-Rectangle_15","#s-Paragraph_76","#s-Paragraph_62","#s-Paragraph_64","#s-Paragraph_63","#s-Input_32","#s-Group_16","#s-Paragraph_79","#s-Button_6","#s-Input_33","#s-Button_8","#s-Paragraph_61","#s-Paragraph_60","#s-Paragraph_78" ]
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -2440,23 +2293,7 @@ jQuery("#simulation")
                 {
                   "action": "jimHide",
                   "parameter": {
-                    "target": [ "#s-Paragraph_59","#s-Paragraph_58","#s-Paragraph_61","#s-Paragraph_57","#s-Paragraph_62","#s-Input_32","#s-Rectangle_11","#s-Input_33","#s-Paragraph_56","#s-Paragraph_63","#s-Paragraph_60","#s-Paragraph_64","#s-Input_31","#s-Button_8","#s-Input_34","#s-Button_6","#s-Group_11" ]
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                },
-                {
-                  "action": "jimHide",
-                  "parameter": {
-                    "target": [ "#s-Input_35" ]
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                },
-                {
-                  "action": "jimHide",
-                  "parameter": {
-                    "target": [ "#s-Paragraph_44","#s-Paragraph_43","#s-Input_26","#s-Paragraph_77","#s-Input_27","#s-Button_17","#s-Paragraph_80","#s-Rectangle_16","#s-Paragraph_45","#s-Input_24","#s-Group_16","#s-Paragraph_53","#s-Paragraph_79","#s-Paragraph_76","#s-Group_17","#s-Input_25","#s-Paragraph_78","#s-Input_28","#s-Button_16","#s-Paragraph_42" ]
+                    "target": [ "#s-Group_11","#s-Input_24","#s-Paragraph_42","#s-Paragraph_55","#s-Input_26","#s-Paragraph_43","#s-Paragraph_41","#s-Paragraph_57","#s-Paragraph_53","#s-Paragraph_58","#s-Button_4","#s-Input_25","#s-Rectangle_11","#s-Paragraph_44","#s-Input_28","#s-Input_27","#s-Group_9","#s-Paragraph_56","#s-Paragraph_45","#s-Button_2" ]
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -2493,16 +2330,24 @@ jQuery("#simulation")
       ];
       event.data = data;
       jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Button_16")) {
+    } else if(jFirer.is("#s-Path_14")) {
       cases = [
         {
           "blocks": [
             {
               "actions": [
                 {
-                  "action": "jimNavigation",
+                  "action": "jimHide",
                   "parameter": {
-                    "target": "screens/6aa1624b-be32-4772-9061-9473643aea81"
+                    "target": [ "#s-Rectangle_17","#s-Image_12","#s-Path_14","#s-Paragraph_81","#s-Group_18" ]
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                },
+                {
+                  "action": "jimHide",
+                  "parameter": {
+                    "target": [ "#s-Paragraph_59","#s-Group_13","#s-Input_31","#s-Input_34","#s-Paragraph_77","#s-Input_35","#s-Rectangle_15","#s-Paragraph_76","#s-Paragraph_62","#s-Paragraph_64","#s-Paragraph_63","#s-Input_32","#s-Group_16","#s-Paragraph_79","#s-Button_6","#s-Input_33","#s-Button_8","#s-Paragraph_61","#s-Paragraph_60","#s-Paragraph_78" ]
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -2516,7 +2361,30 @@ jQuery("#simulation")
       ];
       event.data = data;
       jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Button_17")) {
+    } else if(jFirer.is("#s-Button_2")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimHide",
+                  "parameter": {
+                    "target": [ "#s-Group_11","#s-Input_24","#s-Paragraph_42","#s-Paragraph_55","#s-Input_26","#s-Paragraph_43","#s-Paragraph_41","#s-Paragraph_57","#s-Paragraph_53","#s-Paragraph_58","#s-Button_4","#s-Input_25","#s-Rectangle_11","#s-Paragraph_44","#s-Input_28","#s-Input_27","#s-Group_9","#s-Paragraph_56","#s-Paragraph_45","#s-Button_2" ]
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Button_4")) {
       cases = [
         {
           "blocks": [
@@ -2546,9 +2414,9 @@ jQuery("#simulation")
             {
               "actions": [
                 {
-                  "action": "jimNavigation",
+                  "action": "jimHide",
                   "parameter": {
-                    "target": "screens/6aa1624b-be32-4772-9061-9473643aea81"
+                    "target": [ "#s-Paragraph_59","#s-Group_13","#s-Input_31","#s-Input_34","#s-Paragraph_77","#s-Input_35","#s-Rectangle_15","#s-Paragraph_76","#s-Paragraph_62","#s-Paragraph_64","#s-Paragraph_63","#s-Input_32","#s-Group_16","#s-Paragraph_79","#s-Button_6","#s-Input_33","#s-Button_8","#s-Paragraph_61","#s-Paragraph_60","#s-Paragraph_78" ]
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -2585,7 +2453,7 @@ jQuery("#simulation")
       ];
       event.data = data;
       jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Path_13")) {
+    } else if(jFirer.is("#s-Path_12")) {
       cases = [
         {
           "blocks": [
@@ -2594,7 +2462,7 @@ jQuery("#simulation")
                 {
                   "action": "jimHide",
                   "parameter": {
-                    "target": [ "#s-Path_13","#s-Paragraph_41","#s-Image_11" ]
+                    "target": [ "#s-Path_12","#s-Paragraph_40","#s-Image_10" ]
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -2612,61 +2480,7 @@ jQuery("#simulation")
                 {
                   "action": "jimHide",
                   "parameter": {
-                    "target": [ "#s-Rectangle_15" ]
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        }
-      ];
-      event.data = data;
-      jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Path_14")) {
-      cases = [
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimHide",
-                  "parameter": {
-                    "target": [ "#s-Rectangle_17","#s-Image_12","#s-Path_14","#s-Paragraph_81","#s-Group_18" ]
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                },
-                {
-                  "action": "jimHide",
-                  "parameter": {
-                    "target": [ "#s-Input_35","#s-Paragraph_59","#s-Paragraph_58","#s-Paragraph_61","#s-Paragraph_57","#s-Paragraph_62","#s-Input_32","#s-Paragraph_55","#s-Rectangle_11","#s-Input_33","#s-Paragraph_56","#s-Paragraph_63","#s-Paragraph_60","#s-Paragraph_64","#s-Input_31","#s-Group_9","#s-Button_8","#s-Input_34","#s-Button_6","#s-Group_11" ]
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        }
-      ];
-      event.data = data;
-      jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Path_5")) {
-      cases = [
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimHide",
-                  "parameter": {
-                    "target": [ "#s-Paragraph_54","#s-Image_6","#s-Rectangle_12","#s-Group_8","#s-Path_5" ]
+                    "target": [ "#s-Rectangle_14" ]
                   },
                   "exectype": "serial",
                   "delay": 0

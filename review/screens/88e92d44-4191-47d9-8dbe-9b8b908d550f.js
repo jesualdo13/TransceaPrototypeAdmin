@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1688588220321.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1689008621770.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="s-88e92d44-4191-47d9-8dbe-9b8b908d550f" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Entregas" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/88e92d44-4191-47d9-8dbe-9b8b908d550f-1688588220321.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/88e92d44-4191-47d9-8dbe-9b8b908d550f-1689008621770.css" />\
       <div class="freeLayout">\
       <div id="s-Paragraph_1" class="richtext autofit firer ie-background commentable non-processed" customid="Entrega de Paquetes / Ges"   datasizewidth="434.1px" datasizeheight="27.0px" dataX="127.0" dataY="37.0" >\
         <div class="backgroundLayer">\

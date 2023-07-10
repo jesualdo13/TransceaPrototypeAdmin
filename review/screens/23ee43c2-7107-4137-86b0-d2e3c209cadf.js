@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1688588220321.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1689008621770.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="s-23ee43c2-7107-4137-86b0-d2e3c209cadf" class="screen growth-vertical devWeb canvas PORTRAIT firer commentable non-processed" alignment="left" name="Usuarios Actualizar" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/23ee43c2-7107-4137-86b0-d2e3c209cadf-1688588220321.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/23ee43c2-7107-4137-86b0-d2e3c209cadf-1689008621770.css" />\
       <div class="freeLayout">\
       <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Group 4" datasizewidth="0.0px" datasizeheight="0.0px" >\
         <div id="s-Rectangle_1" class="rectangle manualfit firer commentable non-processed" customid="Rectangle 5"   datasizewidth="563.0px" datasizeheight="733.7px" datasizewidthpx="563.0463867187502" datasizeheightpx="733.7196679563594" dataX="401.0" dataY="213.8" >\

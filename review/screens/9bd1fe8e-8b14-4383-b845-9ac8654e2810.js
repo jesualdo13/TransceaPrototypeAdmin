@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1688588220321.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1689008621770.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,8 +12,8 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="s-9bd1fe8e-8b14-4383-b845-9ac8654e2810" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Datos Generales" width="1366" height="1967">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/9bd1fe8e-8b14-4383-b845-9ac8654e2810-1688588220321.css" />\
-      <link type="text/css" rel="stylesheet" href="./resources/masters/91250b08-0f5e-426b-8b2c-1d193d97d774-1688588220321.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/9bd1fe8e-8b14-4383-b845-9ac8654e2810-1689008621770.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/masters/91250b08-0f5e-426b-8b2c-1d193d97d774-1689008621770.css" />\
       <div class="freeLayout">\
       <div id="s-Paragraph_1" class="richtext autofit firer ie-background commentable non-processed" customid="Remitente"   datasizewidth="77.4px" datasizeheight="18.0px" dataX="360.0" dataY="150.5" >\
         <div class="backgroundLayer">\
@@ -51,21 +51,6 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
       </div><div class="borderLayer"><div class="paddingLayer"><div class="content icon"><div class="valign"><div class="value">Construcciones E Iluminacion Elias</div></div></div></div></div><select id="s-Category_1-options" class="s-9bd1fe8e-8b14-4383-b845-9ac8654e2810 dropdown-options" ><option  class="option">Asesoria Logistica Proyectos Y Equi</option>\
       <option  class="option">Verizon Servicios Empresariales</option>\
       <option selected="selected" class="option">Construcciones E Iluminacion Elias</option></select></div>\
-      <div id="s-Paragraph_3" class="richtext manualfit firer ie-background commentable non-processed" customid="Seleccionar destinatario "   datasizewidth="192.2px" datasizeheight="25.0px" dataX="359.9" dataY="345.0" >\
-        <div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div>\
-        <div class="borderLayer">\
-          <div class="paddingLayer">\
-            <div class="content">\
-              <div class="valign">\
-                <span id="rtr-s-Paragraph_3_0">Seleccionar destinatario </span><span id="rtr-s-Paragraph_3_1">*</span>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
 \
       <div id="s-Master_item_1" class="mi-5a72e25a m-91250b08-0f5e-426b-8b2c-1d193d97d774 masterinstance firer ie-background commentable non-processed" master="m-91250b08-0f5e-426b-8b2c-1d193d97d774" customid="Master item 1" datasizewidth="237.0px" datasizeheight="2200.0px" dataX="0.0" dataY="0.0" dataAngle="0.0" >\
         <div id="mi-5a72e25a-Dynamic_Panel_45" class="dynamicpanel firer commentable non-processed" customid="Dropdown side menu with tree" datasizewidth="237.0px" datasizeheight="2200.0px" dataX="0.0" dataY="0.0" >\
@@ -2487,7 +2472,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_35" class="richtext manualfit firer ie-background commentable non-processed" customid="Seleccionar destino *"   datasizewidth="205.6px" datasizeheight="25.0px" dataX="359.9" dataY="418.0" >\
+      <div id="s-Button_1" class="button multiline manualfit firer click commentable non-processed" customid="Manual"   datasizewidth="148.0px" datasizeheight="43.0px" dataX="396.5" dataY="364.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -2496,120 +2481,139 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           <div class="paddingLayer">\
             <div class="content">\
               <div class="valign">\
-                <span id="rtr-s-Paragraph_35_0">Seleccionar destino </span><span id="rtr-s-Paragraph_35_1">*</span>\
+                <span id="rtr-s-Button_1_0">Manual </span>\
               </div>\
             </div>\
           </div>\
         </div>\
       </div>\
-      <div id="s-Category_3" class="dropdown firer commentable non-processed" customid="Category 1"    datasizewidth="384.5px" datasizeheight="22.0px" dataX="359.9" dataY="443.0"  tabindex="-1"><div class="backgroundLayer">\
-        <div class="colorLayer"></div>\
-        <div class="imageLayer"></div>\
-      </div><div class="borderLayer"><div class="paddingLayer"><div class="content icon"><div class="valign"><div class="value">Calle Adolfo L&oacute;pez Meteos Apasco M&eacute;xico</div></div></div></div></div><select id="s-Category_3-options" class="s-9bd1fe8e-8b14-4383-b845-9ac8654e2810 dropdown-options" ><option selected="selected" class="option">Calle Adolfo L&oacute;pez Meteos Apasco M&eacute;xico</option>\
-      <option  class="option">Calle Ocampos Veracruz M&eacute;xico</option>\
-      <option  class="option">Calle Agust&iacute;n Melgar Los mochis Sinaloa</option></select></div>\
-      <div id="s-Paragraph_36" class="richtext manualfit firer ie-background commentable non-processed" customid="Seleccionar contacto *"   datasizewidth="182.6px" datasizeheight="25.0px" dataX="359.9" dataY="484.0" >\
-        <div class="backgroundLayer">\
+\
+      <div id="s-Group_1" class="group firer ie-background commentable hidden non-processed" customid="Group 1" datasizewidth="0.0px" datasizeheight="0.0px" >\
+        <div id="s-Button_8" class="button multiline manualfit firer click commentable non-processed" customid="Crear Destino"   datasizewidth="148.0px" datasizeheight="43.0px" dataX="767.7" dataY="507.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Button_8_0">Crear Destino</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Button_10" class="button multiline manualfit firer click commentable non-processed" customid="Crear Contacto"   datasizewidth="148.0px" datasizeheight="43.0px" dataX="767.7" dataY="572.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Button_10_0">Crear Contacto</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Paragraph_3" class="richtext manualfit firer ie-background commentable non-processed" customid="Seleccionar destinatario "   datasizewidth="192.2px" datasizeheight="25.0px" dataX="359.9" dataY="452.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_3_0">Seleccionar destinatario </span><span id="rtr-s-Paragraph_3_1">*</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Paragraph_35" class="richtext manualfit firer ie-background commentable non-processed" customid="Seleccionar destino *"   datasizewidth="205.6px" datasizeheight="25.0px" dataX="359.9" dataY="525.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_35_0">Seleccionar destino </span><span id="rtr-s-Paragraph_35_1">*</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Category_3" class="dropdown firer commentable non-processed" customid="Category 1"    datasizewidth="384.5px" datasizeheight="22.0px" dataX="359.9" dataY="550.0"  tabindex="-1"><div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
-        </div>\
-        <div class="borderLayer">\
-          <div class="paddingLayer">\
-            <div class="content">\
-              <div class="valign">\
-                <span id="rtr-s-Paragraph_36_0">Seleccionar contacto </span><span id="rtr-s-Paragraph_36_1">*</span>\
+        </div><div class="borderLayer"><div class="paddingLayer"><div class="content icon"><div class="valign"><div class="value">Calle Adolfo L&oacute;pez Meteos Apasco M&eacute;xico</div></div></div></div></div><select id="s-Category_3-options" class="s-9bd1fe8e-8b14-4383-b845-9ac8654e2810 dropdown-options" ><option selected="selected" class="option">Calle Adolfo L&oacute;pez Meteos Apasco M&eacute;xico</option>\
+        <option  class="option">Calle Ocampos Veracruz M&eacute;xico</option>\
+        <option  class="option">Calle Agust&iacute;n Melgar Los mochis Sinaloa</option></select></div>\
+        <div id="s-Paragraph_36" class="richtext manualfit firer ie-background commentable non-processed" customid="Seleccionar contacto *"   datasizewidth="182.6px" datasizeheight="25.0px" dataX="359.9" dataY="591.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_36_0">Seleccionar contacto </span><span id="rtr-s-Paragraph_36_1">*</span>\
+                </div>\
               </div>\
             </div>\
           </div>\
         </div>\
-      </div>\
-      <div id="s-Category_4" class="dropdown firer commentable non-processed" customid="Category 1"    datasizewidth="384.5px" datasizeheight="22.0px" dataX="359.9" dataY="509.0"  tabindex="-1"><div class="backgroundLayer">\
-        <div class="colorLayer"></div>\
-        <div class="imageLayer"></div>\
-      </div><div class="borderLayer"><div class="paddingLayer"><div class="content icon"><div class="valign"><div class="value">Pedro Gomez</div></div></div></div></div><select id="s-Category_4-options" class="s-9bd1fe8e-8b14-4383-b845-9ac8654e2810 dropdown-options" ><option selected="selected" class="option">Pedro Gomez</option>\
-      <option  class="option">Fernando Lopez</option>\
-      <option  class="option">Porfirio Acosta</option></select></div>\
-      <div id="s-Button_1" class="button multiline manualfit firer click commentable hidden non-processed" customid="Crear Cliente"   datasizewidth="148.0px" datasizeheight="43.0px" dataX="837.7" dataY="292.5" >\
-        <div class="backgroundLayer">\
+        <div id="s-Category_4" class="dropdown firer commentable non-processed" customid="Category 1"    datasizewidth="384.5px" datasizeheight="22.0px" dataX="359.9" dataY="616.0"  tabindex="-1"><div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
-        </div>\
-        <div class="borderLayer">\
-          <div class="paddingLayer">\
-            <div class="content">\
-              <div class="valign">\
-                <span id="rtr-s-Button_1_0">Crear Cliente</span>\
+        </div><div class="borderLayer"><div class="paddingLayer"><div class="content icon"><div class="valign"><div class="value">Pedro Gomez</div></div></div></div></div><select id="s-Category_4-options" class="s-9bd1fe8e-8b14-4383-b845-9ac8654e2810 dropdown-options" ><option selected="selected" class="option">Pedro Gomez</option>\
+        <option  class="option">Fernando Lopez</option>\
+        <option  class="option">Porfirio Acosta</option></select></div>\
+        <div id="s-Button_11" class="button multiline manualfit firer click commentable non-processed" customid="Siguiente"   datasizewidth="148.0px" datasizeheight="43.0px" dataX="359.9" dataY="671.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Button_11_0">Siguiente</span>\
+                </div>\
               </div>\
             </div>\
           </div>\
         </div>\
-      </div>\
-      <div id="s-Button_2" class="button multiline manualfit firer click commentable hidden non-processed" customid="Crear Destinatario"   datasizewidth="148.0px" datasizeheight="43.0px" dataX="837.7" dataY="358.5" >\
-        <div class="backgroundLayer">\
+        <div id="s-Category_5" class="dropdown firer commentable non-processed" customid="Category 1"    datasizewidth="384.5px" datasizeheight="22.0px" dataX="359.9" dataY="476.0"  tabindex="-1"><div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
-        </div>\
-        <div class="borderLayer">\
-          <div class="paddingLayer">\
-            <div class="content">\
-              <div class="valign">\
-                <span id="rtr-s-Button_2_0">Crear Destinatario</span>\
+        </div><div class="borderLayer"><div class="paddingLayer"><div class="content icon"><div class="valign"><div class="value">Carlos Murrieta</div></div></div></div></div><select id="s-Category_5-options" class="s-9bd1fe8e-8b14-4383-b845-9ac8654e2810 dropdown-options" ><option selected="selected" class="option">Carlos Murrieta</option>\
+        <option  class="option">Rodrigo Aguilar</option>\
+        <option  class="option">Oscar Lozano</option></select></div>\
+        <div id="s-Button_3" class="button multiline manualfit firer click commentable non-processed" customid="Siguiente"   datasizewidth="148.0px" datasizeheight="43.0px" dataX="359.9" dataY="671.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Button_3_0">Siguiente</span>\
+                </div>\
               </div>\
             </div>\
           </div>\
         </div>\
       </div>\
-      <div id="s-Button_8" class="button multiline manualfit firer click commentable non-processed" customid="Crear Destino"   datasizewidth="148.0px" datasizeheight="43.0px" dataX="837.7" dataY="420.5" >\
-        <div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div>\
-        <div class="borderLayer">\
-          <div class="paddingLayer">\
-            <div class="content">\
-              <div class="valign">\
-                <span id="rtr-s-Button_8_0">Crear Destino</span>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
-      <div id="s-Button_10" class="button multiline manualfit firer click commentable non-processed" customid="Crear Contacto"   datasizewidth="148.0px" datasizeheight="43.0px" dataX="837.7" dataY="486.5" >\
-        <div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div>\
-        <div class="borderLayer">\
-          <div class="paddingLayer">\
-            <div class="content">\
-              <div class="valign">\
-                <span id="rtr-s-Button_10_0">Crear Contacto</span>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
-      <div id="s-Button_11" class="button multiline manualfit firer click commentable non-processed" customid="Siguiente"   datasizewidth="148.0px" datasizeheight="43.0px" dataX="359.9" dataY="564.0" >\
-        <div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div>\
-        <div class="borderLayer">\
-          <div class="paddingLayer">\
-            <div class="content">\
-              <div class="valign">\
-                <span id="rtr-s-Button_11_0">Siguiente</span>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
-      <div id="s-Category_5" class="dropdown firer commentable non-processed" customid="Category 1"    datasizewidth="384.5px" datasizeheight="22.0px" dataX="359.9" dataY="369.0"  tabindex="-1"><div class="backgroundLayer">\
-        <div class="colorLayer"></div>\
-        <div class="imageLayer"></div>\
-      </div><div class="borderLayer"><div class="paddingLayer"><div class="content icon"><div class="valign"><div class="value">Carlos Murrieta</div></div></div></div></div><select id="s-Category_5-options" class="s-9bd1fe8e-8b14-4383-b845-9ac8654e2810 dropdown-options" ><option selected="selected" class="option">Carlos Murrieta</option>\
-      <option  class="option">Rodrigo Aguilar</option>\
-      <option  class="option">Oscar Lozano</option></select></div>\
+\
       <div id="s-Category_2" class="dropdown firer commentable non-processed" customid="Category 1"    datasizewidth="384.5px" datasizeheight="22.0px" dataX="359.9" dataY="239.0"  tabindex="-1"><div class="backgroundLayer">\
         <div class="colorLayer"></div>\
         <div class="imageLayer"></div>\
@@ -2630,6 +2634,88 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
+      <div id="s-Button_2" class="button multiline manualfit firer click commentable non-processed" customid="Autim&aacute;tica"   datasizewidth="148.0px" datasizeheight="43.0px" dataX="559.8" dataY="364.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Button_2_0">Autim&aacute;tica </span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Group_2" class="group firer ie-background commentable hidden non-processed" customid="Group 2" datasizewidth="0.0px" datasizeheight="0.0px" >\
+        <div id="s-Rectangle_1" class="rectangle manualfit firer commentable non-processed" customid="Rectangle 1"   datasizewidth="555.8px" datasizeheight="349.9px" datasizewidthpx="555.7656250000005" datasizeheightpx="349.9172800560814" dataX="281.9" dataY="436.9" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Rectangle_1_0"></span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+\
+        <div id="s-Image" class="image firer ie-background commentable non-processed" customid="Image"   datasizewidth="137.2px" datasizeheight="129.2px" dataX="491.2" dataY="495.3"   alt="image">\
+          <div class="borderLayer">\
+          	<div class="imageViewport">\
+          		<img src="./images/3c555081-cd9e-4e8f-9cc3-d9d77cecc84c.png" />\
+          	</div>\
+          </div>\
+        </div>\
+\
+        <div id="s-Button_4" class="button multiline manualfit firer click commentable non-processed" customid="Subir Archivo"   datasizewidth="217.3px" datasizeheight="43.0px" dataX="451.1" dataY="641.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Button_4_0">Subir Archivo</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Paragraph_13" class="richtext manualfit firer ie-background commentable non-processed" customid="o suelta un archivo (.xls"   datasizewidth="275.2px" datasizeheight="37.0px" dataX="441.1" dataY="722.5" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_13_0">o suelta un archivo (.xls)</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_1" class="image firer click ie-background commentable hidden non-processed" customid="Image 1"   datasizewidth="664.0px" datasizeheight="350.0px" dataX="271.0" dataY="436.9"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/e97128a4-d70b-44a4-88d9-fa8348b70223.png" />\
+        	</div>\
+        </div>\
+      </div>\
+\
       </div>\
 \
       </div>\

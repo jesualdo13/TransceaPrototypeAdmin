@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1688588220321.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1689008621770.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,8 +12,8 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="s-edc69800-3c9b-4bc6-9cd6-c0e58e7ad4cb" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Ordenes con entrega fallida1" width="1557" height="749">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/edc69800-3c9b-4bc6-9cd6-c0e58e7ad4cb-1688588220321.css" />\
-      <link type="text/css" rel="stylesheet" href="./resources/masters/91250b08-0f5e-426b-8b2c-1d193d97d774-1688588220321.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/edc69800-3c9b-4bc6-9cd6-c0e58e7ad4cb-1689008621770.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/masters/91250b08-0f5e-426b-8b2c-1d193d97d774-1689008621770.css" />\
       <div class="freeLayout">\
       <div id="s-Input_1" class="text firer commentable non-processed" customid="Input"  datasizewidth="1154.6px" datasizeheight="41.9px" dataX="316.4" dataY="287.0" ><div class="backgroundLayer">\
         <div class="colorLayer"></div>\

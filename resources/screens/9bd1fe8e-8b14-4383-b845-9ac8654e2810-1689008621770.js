@@ -1441,32 +1441,25 @@ jQuery("#simulation")
             {
               "actions": [
                 {
-                  "action": "jimNavigation",
+                  "action": "jimShow",
                   "parameter": {
-                    "target": "screens/b3d446c1-2b49-42ea-b0a3-020f2660afe6"
+                    "target": [ "#s-Group_1" ]
                   },
                   "exectype": "serial",
                   "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        }
-      ];
-      event.data = data;
-      jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Button_2")) {
-      cases = [
-        {
-          "blocks": [
-            {
-              "actions": [
+                },
                 {
-                  "action": "jimNavigation",
+                  "action": "jimHide",
                   "parameter": {
-                    "target": "screens/bb5a6413-5403-40dc-9346-b4acc2a6fd61"
+                    "target": [ "#s-Group_2" ]
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                },
+                {
+                  "action": "jimShow",
+                  "parameter": {
+                    "target": [ "#s-Button_10","#s-Button_3","#s-Button_11","#s-Category_3","#s-Paragraph_36","#s-Group_1","#s-Paragraph_3","#s-Category_4","#s-Paragraph_35","#s-Button_8","#s-Category_5" ]
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -1536,6 +1529,106 @@ jQuery("#simulation")
                   "action": "jimNavigation",
                   "parameter": {
                     "target": "screens/6aa1624b-be32-4772-9061-9473643aea81"
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Button_3")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimNavigation",
+                  "parameter": {
+                    "target": "screens/6aa1624b-be32-4772-9061-9473643aea81"
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Button_2")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimShow",
+                  "parameter": {
+                    "target": [ "#s-Group_2" ]
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                },
+                {
+                  "action": "jimHide",
+                  "parameter": {
+                    "target": [ "#s-Button_10","#s-Button_3","#s-Button_11","#s-Category_3","#s-Paragraph_36","#s-Paragraph_3","#s-Category_4","#s-Paragraph_35","#s-Button_8","#s-Category_5" ]
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Button_4")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimShow",
+                  "parameter": {
+                    "target": [ "#s-Image_1" ]
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Image_1")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimNavigation",
+                  "parameter": {
+                    "target": "screens/fd8c6a83-e5f3-440c-b7c4-35ea289fd2f3"
                   },
                   "exectype": "serial",
                   "delay": 0
